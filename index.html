@@ -214,11 +214,13 @@
             </select>
         </div>
         <div class="grid" id="results"></div>
-        <div class="pagination">
-            <button id="prevBtn">Previous</button>
-            <span id="pageInfo"></span>
-            <button id="nextBtn">Next</button>
-        </div>
+       <div class="pagination">
+    <button id="prevBtn">Previous</button>
+    <span id="pageInfo"></span>
+    <button id="nextBtn">Next</button>
+</div>
+
+<div id="pagination"></div>
         <script>
             // 🔥 YOUR CARD DATA
             const cards = [{
@@ -6749,22 +6751,28 @@
                 power: "30",
                 Map: "Off Map",
                 effect: "WHEN PLAYED: You may play a card with 'Sun' card from your salvage for it cost -10 for each double sided card you control. You may flip a card over to make it compatible with this effect. START OF YOUR TURN: If you control a 'Sun' card on your map & have less than 40 power- set your power to 40. If you have a 'Moon' card on your map instead- you may flip it or this card over. {Sun.exe}",
-            }, ];
+            }, 
+];
 
-            const cardsPerPage = 100;
-            let currentPage = 1;
-            let filteredCards = [...cards];
+const cardsPerPage = 100;
+let currentPage = 1;
+let filteredCards = [];
 
-            function render(list) {
-                const container = document.getElementById("results");
-                container.innerHTML = "";
+window.onload = () => {
+    filteredCards = [...cards];
+    render();
+};
+function render() {
+    const container = document.getElementById("results");
+    container.innerHTML = "";
 
-                const start = (currentPage - 1) * cardsPerPage;
-                const end = start + cardsPerPage;
-                const pageCards = list.slice(start, end);
+    const start = (currentPage - 1) * cardsPerPage;
+    const end = start + cardsPerPage;
 
-                pageCards.forEach(card => {
-                    container.innerHTML += `
+    const pageCards = filteredCards.slice(start, end);
+
+    pageCards.forEach(card => {
+        container.innerHTML += `
         <div class="card">
             <div class="image-container">
                 <img src="${card.image}">
@@ -6780,94 +6788,82 @@
                 <p>JP: ${card.Jp}</p>
                 <p>Power: ${card.power}</p>
                 <p>Map: ${card.Map}</p>
-                <p>Effect: ${card.effect}</p>
             </div>
         </div>
         `;
-                }
-                );
+    });
 
-                const totalPages = Math.max(1, Math.ceil(list.length / cardsPerPage));
+    const totalPages = Math.max(1, Math.ceil(filteredCards.length / cardsPerPage));
 
-                document.getElementById("pageInfo").textContent = `Page ${currentPage} of ${totalPages}`;
-            }
+    document.getElementById("pageInfo").textContent =
+        `Page ${currentPage} of ${totalPages}`;
 
-            function update() {
-                filteredCards = [...cards];
+    renderPagination();
+}
 
-                const search = document.getElementById("search").value.toLowerCase();
-                const effect = document.getElementById("effect").value.toLowerCase();
-                const type = document.getElementById("typeFilter").value;
-                const design = document.getElementById("Design").value;
-                const map = document.getElementById("Map").value;
-                const power = document.getElementById("Power").value;
-                const Jp = document.getElementById("Jp").value;
+function renderPagination() {
+    const totalPages = Math.ceil(filteredCards.length / cardsPerPage);
+    const pagination = document.getElementById("pagination");
 
-                if (search) {
-                    filteredCards = filteredCards.filter(c => c.name.toLowerCase().includes(search));
-                }
+    pagination.innerHTML = "";
 
-                if (effect) {
-                    filteredCards = filteredCards.filter(c => c.effect && c.effect.toLowerCase().includes(effect));
-                }
+    const go = (page) => {
+        currentPage = Math.min(Math.max(1, page), totalPages);
+        render();
+    };
 
-                if (type) {
-                    filteredCards = filteredCards.filter(c => c.type.includes(type));
-                }
+    // First
+    pagination.appendChild(makeBtn("First", () => go(1), currentPage === 1));
 
-                if (design) {
-                    filteredCards = filteredCards.filter(c => c.design && c.design.includes(design));
-                    // === design
-                }
+    // Prev
+    pagination.appendChild(makeBtn("Prev", () => go(currentPage - 1), currentPage === 1));
 
-                if (map) {
-                    filteredCards = filteredCards.filter(c => c.Map && c.Map.includes(map));
-                    // === map
-                }
+    // Pages
+    let startPage = Math.max(1, currentPage - 2);
+    let endPage = Math.min(totalPages, currentPage + 2);
 
-                if (power) {
-                    filteredCards = filteredCards.filter(c => c.power === power);
-                }
+    for (let i = startPage; i <= endPage; i++) {
+        pagination.appendChild(
+            makeBtn(i, () => go(i), i === currentPage)
+        );
+    }
 
-                if (Jp) {
-                    filteredCards = filteredCards.filter(c => c.Jp === Jp);
-                }
+    // Next
+    pagination.appendChild(makeBtn("Next", () => go(currentPage + 1), currentPage === totalPages));
 
-                currentPage = 1;
-                render(filteredCards);
-            }
+    // Last
+    pagination.appendChild(makeBtn("Last", () => go(totalPages), currentPage === totalPages));
+}
 
-            // Search/Filter Events
-            document.getElementById("search").addEventListener("input", update);
-            document.getElementById("effect").addEventListener("input", update);
-            document.getElementById("typeFilter").addEventListener("change", update);
-            document.getElementById("Design").addEventListener("change", update);
-            document.getElementById("Map").addEventListener("change", update);
-            document.getElementById("Power").addEventListener("change", update);
-            document.getElementById("Jp").addEventListener("change", update);
+function makeBtn(text, onClick, disabled) {
+    const btn = document.createElement("button");
+    btn.textContent = text;
+    btn.disabled = disabled;
+    btn.onclick = onClick;
+    return btn;
+}
 
-            // Previous button
-            document.getElementById("prevBtn").addEventListener("click", () => {
-                if (currentPage > 1) {
-                    currentPage--;
-                    render(filteredCards);
-                }
-            }
-            );
+function update() {
+    filteredCards = [...cards];
 
-            // Next button
-            document.getElementById("nextBtn").addEventListener("click", () => {
-                const totalPages = Math.ceil(filteredCards.length / cardsPerPage);
+    const search = document.getElementById("search").value.toLowerCase();
+    const type = document.getElementById("typeFilter").value;
+    const design = document.getElementById("Design").value;
+    const map = document.getElementById("Map").value;
 
-                if (currentPage < totalPages) {
-                    currentPage++;
-                    render(filteredCards);
-                }
-            }
-            );
+    if (search) {
+        filteredCards = filteredCards.filter(c =>
+            c.name.toLowerCase().includes(search)
+        );
+    }
 
-            // Initial render
-            render(filteredCards);
+    if (type) filteredCards = filteredCards.filter(c => c.type === type);
+    if (design) filteredCards = filteredCards.filter(c => c.design === design);
+    if (map) filteredCards = filteredCards.filter(c => c.Map === map);
+
+    currentPage = 1;
+    render();
+}
         </script>
     </body>
 </html>
