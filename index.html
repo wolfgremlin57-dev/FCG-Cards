@@ -6864,6 +6864,15 @@ function update() {
     currentPage = 1;
     render();
 }
+ // Search/Filter Events
+            document.getElementById("search").addEventListener("input", update);
+            document.getElementById("effect").addEventListener("input", update);
+            document.getElementById("typeFilter").addEventListener("change",update);
+            document.getElementById("Design").addEventListener("change", update);
+            document.getElementById("Map").addEventListener("change", update);
+            document.getElementById("Power").addEventListener("change", update);
+            document.getElementById("Jp").addEventListener("change", update);
+
         </script>
     </body>
 </html>
