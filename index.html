@@ -85,7 +85,7 @@
         <h1>FCG CARD DATA BASE</h1>
         <div class="controls">
             <input type="text" id="search" placeholder="Search name ...">
-            <input type="text" id="effect" placeholder="Search effect ...">
+
             <select id="Power">
                 <option value="">Power</option>
                 <option value="100">100</option>
@@ -6777,7 +6777,6 @@ function render() {
             <div class="image-container">
                 <img src="${card.image}">
                 <div class="tooltip">
-                    ${card.effect || "No Effect"}
                 </div>
             </div>
 
@@ -6843,24 +6842,46 @@ function makeBtn(text, onClick, disabled) {
     return btn;
 }
 
-function update() {
-    filteredCards = [...cards];
+ function update() {
+                filteredCards = [...cards];
 
-    const search = document.getElementById("search").value.toLowerCase();
-    const type = document.getElementById("typeFilter").value;
-    const design = document.getElementById("Design").value;
-    const map = document.getElementById("Map").value;
+                const search = document.getElementById("search").value.toLowerCase();
+                const effect = document.getElementById("effect").value.toLowerCase();
+                const type = document.getElementById("typeFilter").value;
+                const design = document.getElementById("Design").value;
+                const map = document.getElementById("Map").value;
+                const power = document.getElementById("Power").value;
+                const Jp = document.getElementById("Jp").value;
 
-    if (search) {
-        filteredCards = filteredCards.filter(c =>
-            c.name.toLowerCase().includes(search)
-        );
-    }
+                if (search) {
+                    filteredCards = filteredCards.filter(c => c.name.toLowerCase().includes(search));
+                }
 
-    if (type) filteredCards = filteredCards.filter(c => c.type === type);
-    if (design) filteredCards = filteredCards.filter(c => c.design === design);
-    if (map) filteredCards = filteredCards.filter(c => c.Map === map);
+                if (effect) {
+                    filteredCards = filteredCards.filter(c => c.effect && c.effect.toLowerCase().includes(effect));
+                }
 
+                if (type) {
+                    filteredCards = filteredCards.filter(c => c.type.includes(type));
+                }
+
+                if (design) {
+                    filteredCards = filteredCards.filter(c => c.design && c.design.includes(design));
+                    // === design
+                }
+
+                if (map) {
+                    filteredCards = filteredCards.filter(c => c.Map && c.Map.includes(map));
+                    // === map
+                }
+
+                if (power) {
+                    filteredCards = filteredCards.filter(c => c.power === power);
+                }
+
+                if (Jp) {
+                    filteredCards = filteredCards.filter(c => c.Jp === Jp);
+                }
     currentPage = 1;
     render();
 }
@@ -6872,7 +6893,8 @@ function update() {
             document.getElementById("Map").addEventListener("change", update);
             document.getElementById("Power").addEventListener("change", update);
             document.getElementById("Jp").addEventListener("change", update);
-
+  // Initial render
+            render(filteredCards);
         </script>
     </body>
 </html>
