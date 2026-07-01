@@ -9149,50 +9149,7 @@
                 power: "100",
                 Map: "Omni",
                 effect: "REQUIREMENT: SCRAP 3 \"Door\" cards in play. BIZARRE. Everytime a \"Door\" is played, add a +1 JP counter to this card (Max 99).<br>WHEN KILLED: Take 1 damage for every point of JP this card has. Replay this card if able for its cost.",
-            }, ];
-
-            const cardsPerPage = 75;
-        let currentPage = 1;
-let filteredCards = [];
-
-window.onload = () => {
-    filteredCards = [...cards];
-    render();
-};
-            function render(list) {
-    const container = document.getElementById("results");
-    container.innerHTML = "";
-
-    const start = (currentPage - 1) * cardsPerPage;
-    const end = start + cardsPerPage;
-
-    const pageCards = filteredCards.slice(start, end);
-
-                pageCards.forEach(card => {
-                    container.innerHTML += `
-        <div class="card">
-            <div class="image-container">
-                <img src="${card.image}">
-                <div class="tooltip">
-                    ${card.effect || "No Effect"}
-                </div>
-            </div>
-
-            <div class="card-body">
-                <h3>${card.name}</h3>
-                <p>Origin: ${card.origin?.replace(/Help Wanted 1/g, "Help Wanted").replace(/{Other}/g, "") || " "}</p>
-                <p>Set/ID: ${card.set}</p>
-                <p>Rarity: ${card.rarity}</p>
-                <p>Power: ${card.power}</p>
-                <p>JP: ${card.Jp}</p>
-                <p>Design: ${card.design}</p>
-                <p>Type: ${card.type.replace(/_Door/g, "DOOR") || " "}</p>
-                <p>Map: ${card.Map?.replace(/_/g, " ").replace(/OfficeLR/g, "Office") || " "}</p>
-                <p>Effect: ${card.effect}</p>
-            </div>
-        </div>
-        `;
-                }
+            },
                 );
 
             
