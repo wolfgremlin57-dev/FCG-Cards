@@ -61,7 +61,112 @@
                 position: relative;
             }
 
-            .tooltip {
+            mark.red {
+                background: red;
+                color: black;
+            }
+
+            mark.orange {
+                background: orange;
+                color: black;
+            }
+
+            mark.retroorange {
+                background: #ffa50000;
+                color: #ffa603;
+            }
+
+            mark.graftedorange {
+                background: #ffa50000;
+                color: #e37600;
+            }
+
+            mark.altyellow {
+                background: #ffa60300;
+                color: #ffff00;
+            }
+
+            mark.lightyellow {
+                background: #7b6900;
+                color: white;
+            }
+
+            mark.pink {
+                background: #ff3384;
+                color: black;
+            }
+
+            mark.altpink {
+                background: #ff338400;
+                color: #ff3384;
+            }
+
+            mark.pastelpink {
+                background: #f5a1e9;
+                color: black;
+            }
+
+            mark.blue {
+                background: #008bff;
+                color: black;
+            }
+
+            mark.altblue {
+                background: #008bff00;
+                color: #008bff;
+            }
+
+            mark.green {
+                background: #7df469;
+                color: black;
+            }
+
+            mark.malharegreen {
+                background: #7df46900;
+                color: #00e800;
+            }
+
+            mark.agony {
+                background: #008bff00;
+                color: red;
+            }
+
+            mark.purple {
+                background: #f36af9;
+                color: black;
+            }
+
+            mark.mediocrepurple {
+                background: #008bff00;
+                color: #6816fc;
+            }
+
+            mark.viruspurple {
+                background: #450075;
+                color: white;
+            }
+
+            mark.idbearpurple {
+                background: #45007500;
+                color: #4b007e;
+                text-decoration: line-through;
+                text-decoration-color: #4b007e;
+            }
+
+            mark.idunder {
+                background: #45007500;
+                color: #4b007e;
+                text-decoration: underline;
+                text-decoration-color: #4b007e;
+            }
+
+            mark.smallqm {
+                background: #45007500;
+                color: white;
+                font-size: 0.5em;
+            }
+
+            /*.tooltip {
                 position: absolute;
                 bottom: 20px;
                 left: 16px;
@@ -78,7 +183,7 @@
 
             .image-container:hover .tooltip {
                 opacity: 1;
-            }
+            }*/
         </style>
     </head>
     <body>
@@ -150,6 +255,7 @@
             <select id="Map_Options">
                 <option value="Exact">Map: Exactly</option>
                 <option value="Inclusive">Map: Inclusive</option>
+                <option value="Exclusive">Map: Exclusive</option>
             </select>
             <select id="Design">
                 <option value="">Design</option>
@@ -200,6 +306,11 @@
                 <option value="Variable">Variable</option>
                 <option value="Wolf">Wolf</option>
                 <option value="???">???</option>
+            </select>
+            <select id="Design_Options">
+                <option value="Exact">Design: Exactly</option>
+                <option value="Inclusive">Design: Inclusive</option>
+                <option value="Exclusive">Design: Exclusive</option>
             </select>
             <select id="typeFilter">
                 <option value="">Type</option>
@@ -283,15 +394,15 @@
                 <option value="Rainbow Entity">Rainbow Entity</option>
                 <option value="CMuffinArt">CMuffinArt</option>
                 <option value="jjRobotnik">jjRobotnik</option>
-                <option value="Rainbow3ntity">Rainbow3ntity</option>>
-                <option value="UltimateCyborg">UltimateCyborg</option>>
-                <option value="Nekomation">Nekomation</option>>
-                <option value="Diana Camero">Diana Camero</option>>
-                <option value="Didi Esmeralds">Didi Esmeralds</option>>
-                <option value="Andi Santagata">Andi Santagata</option>>
-                <option value="Coryn MacPherson">Coryn MacPherson</option>>
-                <option value="Anthony Morris JR">Diana Camero</option>>
-                <option value="E.C. Myers">E.C. Myers</option>>
+                <option value="Rainbow3ntity">Rainbow3ntity</option>
+                <option value="UltimateCyborg">UltimateCyborg</option>
+                <option value="Nekomation">Nekomation</option>
+                <option value="Diana Camero">Diana Camero</option>
+                <option value="Didi Esmeralds">Didi Esmeralds</option>
+                <option value="Andi Santagata">Andi Santagata</option>
+                <option value="Coryn MacPherson">Coryn MacPherson</option>
+                <option value="Anthony Morris JR">Diana Camero</option>
+                <option value="E.C. Myers">E.C. Myers</option>
                 <option value="Dawko">Dawko</option>
                 <option value="Markiplier">Markiplier</option>
                 <option value="Other">Other</option>
@@ -3615,6 +3726,58 @@
                 Map: "Front",
                 effect: "<br>You may SCRAP this card to play 1 card with \"Trap\" or \"William\" in its name from your salvage for -50%. WHEN ATTACKING: Draw 1 Discard 1. If that discarded card had \"Trap\" in it name gain 10%- if not take 1 damage.",
             }, {
+                name: "Phantom Freddy (LLC)",
+                origin: "Help Wanted 1",
+                set: "FCG2-Viral Infection-00x",
+                credit: "Steel Wool",
+                rarity: "☆",
+                design: "Bear",
+                type: "Illusion",
+                image: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f92d55ca-8441-433e-b818-eeb152a8b8ea/dmclwi5-5cdf638b-e757-4de7-aeec-d22dddecd075.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9mOTJkNTVjYS04NDQxLTQzM2UtYjgxOC1lZWIxNTJhOGI4ZWEvZG1jbHdpNS01Y2RmNjM4Yi1lNzU3LTRkZTctYWVlYy1kMjJkZGRlY2QwNzUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.k5lyoS7BGmdsZH5oa8taOunSbAw2CPjd6Afe-aCTwAg",
+                Jp: "0",
+                power: "10",
+                Map: "Right_Hall/Vent",
+                effect: " WHEN KILLED: Discard the Top card of your deck to Gain 20% Power. If the discarded card was a \"LLC\", \"Phantom\", [Bear], or \"Trap\"- add it to your hand.",
+            }, {
+                name: "Phantom Foxy (LLC)",
+                origin: "Help Wanted 1",
+                set: "FCG2-Viral Infection-00x",
+                credit: "Steel Wool",
+                rarity: "☆",
+                design: "Fox",
+                type: "Illusion",
+                image: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f92d55ca-8441-433e-b818-eeb152a8b8ea/dmclwic-61d36d93-5c25-45cc-b29d-8805e014a216.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9mOTJkNTVjYS04NDQxLTQzM2UtYjgxOC1lZWIxNTJhOGI4ZWEvZG1jbHdpYy02MWQzNmQ5My01YzI1LTQ1Y2MtYjI5ZC04ODA1ZTAxNGEyMTYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.SzMLL-8c7prY7TJMi7IbnDjk4IDorLgQwAZLKyKE7UY",
+                Jp: "0",
+                power: "10",
+                Map: "Left_Hall/Vent",
+                effect: " WHEN KILLED: Discard the Top card of your deck to Add a +1 JP count to one of your cards for the turn. If the discarded card was a \"Phantom\", \"LLC\", [Fox], or \"Trap\"- add it to your hand.",
+            },  {
+                name: "Phantom Mangle (LLC)",
+                origin: "Help Wanted 1",
+                set: "FCG2-Viral Infection-00x",
+                credit: "Steel Wool",
+                rarity: "☆",
+                design: "Fox",
+                type: "Illusion",
+                image: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f92d55ca-8441-433e-b818-eeb152a8b8ea/dmclwij-5afd6c36-9df9-49e6-87ca-c25c0fc23a76.png/v1/fit/w_828,h_1086/phantom_mangle__llc__by_siresquawks_dmclwij-414w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTE4MCIsInBhdGgiOiIvZi9mOTJkNTVjYS04NDQxLTQzM2UtYjgxOC1lZWIxNTJhOGI4ZWEvZG1jbHdpai01YWZkNmMzNi05ZGY5LTQ5ZTYtODdjYS1jMjVjMGZjMjNhNzYucG5nIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.oLrI3qvvnFUAWt4FVOAvzBkO_29gv237KrPxnXbywYo",
+                Jp: "0",
+                power: "10",
+                Map: "Right_Hall/OfficeLR",
+                effect: " WHEN KILLED: Discard the Top card of your deck to play a [Customization] from your salvage for its cost. If the discarded card whas a [Amalgam], \"Phantom\", \"LLC\", or \"Trap\"- add it to your hand.",
+            }, {
+                name: "Phantom BB (LLC)",
+                origin: "Help Wanted 1",
+                set: "FCG2-Viral Infection-00x",
+                credit: "Steel Wool",
+                rarity: "☆",
+                design: "Child/Humanoid",
+                type: "Illusion",
+                image: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f92d55ca-8441-433e-b818-eeb152a8b8ea/dmclwiu-b068682c-15f9-49c9-b6d9-7a5b309edc84.png/v1/fit/w_828,h_1086/phantom_bb__llc__by_siresquawks_dmclwiu-414w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTE4MCIsInBhdGgiOiIvZi9mOTJkNTVjYS04NDQxLTQzM2UtYjgxOC1lZWIxNTJhOGI4ZWEvZG1jbHdpdS1iMDY4NjgyYy0xNWY5LTQ5YzktYjZkOS03YTViMzA5ZWRjODQucG5nIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.SZd-O7Avj9Y4c4a94fZVgMIoMoP37Zcv8FPPYiQIOM8",
+                Jp: "0",
+                power: "10",
+                Map: "Front",
+                effect: " WHEN KILLED: Discard the Top card of your deck to make an adjacent character aGGRESSIVe. If the discarded card was a \"Trap\", \"Phantom\", \"LLC\", or [???]- add it to your hand.",
+            }, {
                 name: "Plushtrap (LLC) \"The Little Nightmare\"",
                 origin: "FNAF AR",
                 set: "FCG2-Viral Infection-00x",
@@ -4666,7 +4829,7 @@
                 Jp: "2",
                 power: "70",
                 Map: "Halls",
-                effect: "<br><i>REQUIREMENT: 10 or more cards in your salvage. You may pay up to 30% extra to lower this effects range by 2 for every 10% extra you spent.</i> aGGRESSIVe. dEFENDER. On your turn you may Pay 20% to add +1 JP to this card until it next Attacks or Blocks, and/or You may discard 2 cards from your hand to make this card uNSTOPPABLe for the turn.",
+                effect: "<br><i>REQUIREMENT: 10 or more cards in your salvage. You may pay up to 30% extra to lower this effects range by 2 for every 10% extra you spent.</i> AGGRESSIVe, dEFENDER. On your turn you may Pay 20% to add +1 JP to this card until it next Attacks or Blocks, and/or You may discard 2 cards from your hand to make this card uNSTOPPABLe for the turn.",
             }, {
                 name: "Withered Bonnie (LLC)",
                 origin: "Help Wanted 1",
@@ -4705,7 +4868,7 @@
                 Jp: "2",
                 power: "40",
                 Map: "Halls",
-                effect: "<br><i>REQUIREMENT: 10 or more cards in your salvage. You may pay up to 30% extra to lower this effects range by 2 for every 10% extra you spent.</i><br>Remove a +1 JP counter from this card when it deactivates. ONCE PER TURN: Add a +1 JP counter to [Fox] in play.",
+                effect: "<br><i>REQUIREMENT: 10 or more cards in your salvage. You may pay up to 30% extra to lower this effects range by 2 for every 10% extra you spent.</i><br>You may Discard from your hand to make this card aGGRESSIVE. Remove a +1 JP counter from this card when it deactivates. ONCE PER TURN: Add a +1 JP counter to a card you control.",
             }, {
                 name: "Ennard (LLC) \"Funtime Freddy, Foxy, Baby, Ballora, Bon-Bon\"",
                 origin: "Help Wanted 1",
@@ -4718,7 +4881,7 @@
                 Jp: "4",
                 power: "80",
                 Map: "Front",
-                effect: " END OF YOUR TURN: Return 2 cards with \"Funtime\" cards from your salvage to your deck bottom or you must kill this card. <br>ONCE PER TURN: Discard 2 cards from your deck to use a following effect: *play a [Child] from your salvage for its cost -10%. *Gain 20% Power. <br>*Move this card to an Adjacent Space. *Give this card +1 JP for the turn.",
+                effect: " END OF YOUR TURN: Return 2 cards with \"Funtime\" cards from your salvage to your deck bottom or you must kill this card. ONCE PER TURN: Discard 2 cards from your deck to use a following effect: *play a [Child] from your salvage for its cost -10%. *Gain 20% Power. <br>*Move this card to an Adjacent Space. *Give this card +1 JP for the turn.",
             }, {
                 name: "Nightmare Endo",
                 origin: "Help Wanted 1",
@@ -5758,12 +5921,12 @@
                 origin: "Security Breach: Ruin",
                 set: "FCG2-Viral Infection-00x",
                 credit: "Steel Wool",
-                rarity: "",
+                rarity: "☆☆☆",
                 type: "Customization",
-                image: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f92d55ca-8441-433e-b818-eeb152a8b8ea/dhqru2l-350dfc12-d3ff-48ad-a502-0775ede76434.png/v1/fit/w_828,h_1160/the_scooper__llc__by_siresquawks_dhqru2l-414w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDIwMCIsInBhdGgiOiIvZi9mOTJkNTVjYS04NDQxLTQzM2UtYjgxOC1lZWIxNTJhOGI4ZWEvZGhxcnUybC0zNTBkZmMxMi1kM2ZmLTQ4YWQtYTUwMi0wNzc1ZWRlNzY0MzQucG5nIiwid2lkdGgiOiI8PTMwMDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.-CSoAhF3HYi7ArAlWCLjj2WXlnTwyKpnra4tqT-u5RA",
+                image: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f92d55ca-8441-433e-b818-eeb152a8b8ea/dmcm875-2bb6e6ab-b1d7-4ec1-b21a-a26d89cb81df.png/v1/fit/w_828,h_1086/the_scooper__llc__by_siresquawks_dmcm875-414w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTE4MCIsInBhdGgiOiIvZi9mOTJkNTVjYS04NDQxLTQzM2UtYjgxOC1lZWIxNTJhOGI4ZWEvZG1jbTg3NS0yYmI2ZTZhYi1iMWQ3LTRlYzEtYjIxYS1hMjZkODljYjgxZGYucG5nIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.eu5AQ5kqXM8lZrMa8labdO13RklG2sZX6f_OPj9aSiQ",
                 power: "50",
                 Map: "Off Map",
-                effect: "<br>Send the card with the highest JP on your opponent's map to the salvage. If there's a tie then choose one. You can't play this card if you have a card with equal to or more JP.",
+                effect: "Choose a card in play with the highest JP & Kill it.",
             }, {
                 name: "The Blade Of Light",
                 origin: "Security Breach: Ruin",
@@ -5897,7 +6060,7 @@
                 Jp: "3",
                 power: "90",
                 Map: "Front",
-                effect: "<br>You may discard a [Child] from your hand to lower this card's play cost by 10% for every 20% of it cost and make this card aGGRESSIVE. ONCE PER TURN: Move a card on your opponent's map that isn't in this card's path. If that card has equal or greater JP to this card, deavtivate the enemy card.",
+                effect: "<br>You may discard a [Child] from your hand to lower this card's play cost by 10% for every 20% of it cost and make this card aGGRESSIVe. ONCE PER TURN: Move a card on your opponent's map that isn't in this card's path. If that card has equal or greater JP to this card, deavtivate the enemy card.",
             }, {
                 name: "Lefty (LLC)",
                 origin: "Help Wanted 2",
@@ -10097,8 +10260,11 @@ function makeBtn(text, onClick, disabled) {
                 const effect = document.getElementById("effect").value.toLowerCase();
                 const set = document.getElementById("Set").value;
                 const rarity = document.getElementById("Rarity").value;
+                const credit = document.getElementById("Artist Name").value;
                 const type = document.getElementById("typeFilter").value;
+                const typeinclusivity = document.getElementById("Typing_Options").value;
                 const design = document.getElementById("Design").value;
+                const designinclusivity = document.getElementById("Design_Options").value;
                 const map = document.getElementById("Map").value;
                 const mapinclusivity = document.getElementById("Map_Options").value;
                 const power = document.getElementById("Power").value;
@@ -10135,13 +10301,41 @@ function makeBtn(text, onClick, disabled) {
                     filteredCards = filteredCards.filter(c => c.rarity === rarity);
                 }
 
-                if (type) {
-                    filteredCards = filteredCards.filter(c => c.type.includes(type));
+                if (credit) {
+                    filteredCards = filteredCards.filter(c => c.credit && c.credit.includes(credit));
                 }
 
-                if (design) {
-                    const designValues = design.split(",");
-                    filteredCards = filteredCards.filter(c => c.design && designValues.some(v => c.design.includes(v)));
+                if (typeinclusivity === "Exact") {
+                    if (type) {
+                        filteredCards = filteredCards.filter(c => c.type === type);
+                    }
+                } else if (typeinclusivity === "Inclusive") {
+                    if (type) {
+                        filteredCards = filteredCards.filter(c => c.type.includes(type));
+                    }
+                } else if (typeinclusivity === "Exclusive") {
+                    if (type) {
+                        filteredCards = filteredCards.filter(c => !c.type.includes(type));
+                    }
+                }
+
+                if (designinclusivity === "Exact") {
+                    if (design) {
+                        const designValues = design.split(",");
+                        filteredCards = filteredCards.filter(c => c.design === design);
+                    }
+                }
+                if (designinclusivity === "Inclusive") {
+                    if (design) {
+                        const designValues = design.split(",");
+                        filteredCards = filteredCards.filter(c => c.design && designValues.some(v => c.design.includes(v)));
+                    }
+                }
+                if (designinclusivity === "Exclusive") {
+                    if (design) {
+                        const designValues = design.split(",");
+                        filteredCards = filteredCards.filter(c => c.design && !designValues.some(v => c.design.includes(v)));
+                    }
                 }
 
                 if (mapinclusivity === "Exact") {
@@ -10153,6 +10347,12 @@ function makeBtn(text, onClick, disabled) {
                         const aliases = aliasMap[map] || [];
                         const mapValues = [map, ...aliases];
                         filteredCards = filteredCards.filter(c => c.Map && mapValues.some(v => c.Map.includes(v)));
+                    }
+                } else if (mapinclusivity === "Exclusive") {
+                    if (map) {
+                        const aliases = aliasMap[map] || [];
+                        const mapValues = [map, ...aliases];
+                        filteredCards = filteredCards.filter(c => c.Map && !mapValues.some(v => c.Map.includes(v)));
                     }
                 }
 
@@ -10194,6 +10394,11 @@ function makeBtn(text, onClick, disabled) {
             document.getElementById("Power").addEventListener("change", update);
             document.getElementById("Jp").addEventListener("change", update);
             document.getElementById("Origin").addEventListener("change", update);
+            document.getElementById("Map_Options").addEventListener("change", update);
+            document.getElementById("Typing_Options").addEventListener("change", update);
+            document.getElementById("Design_Options").addEventListener("change", update);
+            document.getElementById("Artist Name").addEventListener("change", update);
+            document.getElementById("Sort").addEventListener("change", update);
 
    // Initial render
             render(filteredCards);
