@@ -10446,7 +10446,7 @@ function makeBtn(text, onClick, disabled) {
                     filteredCards = filteredCards.filter(c => c.origin && c.origin.includes(origin));
                 }
                 if (credit) {
-                    filteredCards = filteredCards.filter(c => c.credit === credit);
+                    filteredCards = filteredCards.filter(c => c.credit && c.credit.includes(credit));
                 }
 
 
