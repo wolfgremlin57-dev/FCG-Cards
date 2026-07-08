@@ -416,6 +416,7 @@
                 <option value="Rarity">Rarity: Token -> Secret Rare</option>
                 <option value="Rarity Reversed">Rarity: Secret Rare -> Token</option>
             </select>
+            <button id="clearFilters">Clear</button>
         </div>
         <div class="grid" id="results"></div>
        <div class="pagination">
@@ -10459,6 +10460,30 @@ function makeBtn(text, onClick, disabled) {
                 currentPage = 1;
                 render(filteredCards);
             }
+            document.getElementById("clearFilters").addEventListener("click", () => {
+
+    // Clear search boxes
+    document.getElementById("search").value = "";
+    document.getElementById("effect").value = "";
+
+    // Reset every dropdown
+    document.getElementById("typeFilter").selectedIndex = 0;
+    document.getElementById("Design").selectedIndex = 0;
+    document.getElementById("Rarity").selectedIndex = 0;
+    document.getElementById("Set").selectedIndex = 0;
+    document.getElementById("Map").selectedIndex = 0;
+    document.getElementById("Power").selectedIndex = 0;
+    document.getElementById("Jp").selectedIndex = 0;
+    document.getElementById("Origin").selectedIndex = 0;
+    document.getElementById("Map_Options").selectedIndex = 0;
+    document.getElementById("Typing_Options").selectedIndex = 0;
+    document.getElementById("Design_Options").selectedIndex = 0;
+    document.getElementById("credit").selectedIndex = 0; // if this is a <select>
+    document.getElementById("Sort").selectedIndex = 0;
+
+    currentPage = 1;
+    update();
+});
 
             // Search/Filter Events
             document.getElementById("search").addEventListener("input", update);
