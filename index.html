@@ -10380,7 +10380,7 @@ function makeBtn(text, onClick, disabled) {
                 }
 
                if (credit) {
-                    filteredCards = filteredCards.filter(c => c.credit === credit);
+                    filteredCards = filteredCards.filter(c => c.credit && c.credit.includes(credit));
                 }
 
                 if (typeinclusivity === "Exact") {
