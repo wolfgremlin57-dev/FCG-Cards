@@ -10380,7 +10380,7 @@ function makeBtn(text, onClick, disabled) {
                 }
 
                 if (credit) {
-                    filteredCards = filteredCards.filter(c => c.credit && c.credit.includes(credit));
+                    filteredCards = filteredCards.filter(c => c.credit && c.credit.includes ===credit));
                 }
 
                 if (typeinclusivity === "Exact") {
@@ -10479,7 +10479,6 @@ function makeBtn(text, onClick, disabled) {
             document.getElementById("Map_Options").addEventListener("change", update);
             document.getElementById("Typing_Options").addEventListener("change", update);
             document.getElementById("Design_Options").addEventListener("change", update);
-            document.getElementById("Artist Name").addEventListener("change", update);
             document.getElementById("Sort").addEventListener("change", update);
             document.getElementById("credit").addEventListener("change", update);
 
