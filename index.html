@@ -415,7 +415,8 @@
                 <option value="Alphabetically Reversed">Z -> A</option>
                 <option value="Rarity">Rarity: Token -> Secret Rare</option>
                 <option value="Rarity Reversed">Rarity: Secret Rare -> Token</option>
-
+                <option value="JP">JP: Low -> High</option>
+                <option value="JP Reversed">JP: High -> Low</option>
             </select>
 <button id="clearFilters">Clear</button>
         </div>
@@ -10464,6 +10465,20 @@ function makeBtn(text, onClick, disabled) {
                     filteredCards.sort( (a, b) => a.rarity.localeCompare(b.rarity));
                 } else if (sorting === "Rarity Reversed") {
                     filteredCards.sort( (a, b) => b.rarity.localeCompare(a.rarity));
+                } else if (sorting === "JP") {
+                    filteredCards.sort( (a, b) => {
+                        const A = (a.Jp || "");
+                        const B = (b.Jp || "");
+                        return A.localeCompare(B);
+                    }
+                    );
+                } else if (sorting === "JP Reversed") {
+                    filteredCards.sort( (a, b) => {
+                        const A = (a.Jp || "");
+                        const B = (b.Jp || "");
+                        return B.localeCompare(A);
+                    }
+                    );
                 }
 
                 currentPage = 1;
