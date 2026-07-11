@@ -1982,7 +1982,7 @@
                 effect: "<br>You may deactivate this card to target a card you control- it can't be removed from play until the end of your opponent's turn. WHEN ATTACKING: Add a -1 JP counter to a card on the map.",
             }, {
                 name: "Mr. Chipper",
-                origin: "Chipper and Sons Lumber Co.{Other}",
+                origin: "FNAF World/Chipper and Sons Lumber Co.{Other}",
                 set: "FCG1-Cawthon Chaos-120",
                 credit: "Scott Cawthon",
                 rarity: "☆☆☆",
@@ -1995,7 +1995,7 @@
                 effect: " ONCE PER TURN: kill an [Animatronic] character on the map with 2 or less JP, the flip a coin:<br>*If it was Heads: Play a \"Lumber Bot\" token where it was {1 JP | Beaver | Animatronic}.<br>*If it was Tails: Play a \"Auto Chipper\" token where it was {3 JP | Boss | Animatronic}.",
             }, {
                 name: "Lumber Bot {token}",
-                origin: "FNAF World",
+                origin: "FNAF World/Chipper and Sons Lumber Co.{Other}",
                 set: "FCG1-Cawthon Chaos-121",
                 credit: "Scott Cawthon",
                 rarity: "★",
@@ -2008,7 +2008,7 @@
                 effect: "<br>",
             }, {
                 name: "Auto Chipper {token}",
-                origin: "FNAF World",
+                origin: "FNAF World/Chipper and Sons Lumber Co.{Other}",
                 set: "FCG1-Cawthon Chaos-122",
                 credit: "Scott Cawthon",
                 rarity: "★",
@@ -10266,7 +10266,7 @@ window.onload = () => {
 
     <div class="card-body" hidden>
                 <h3>${card.name?.replace(/\(\?\)/g, "<mark class = 'smallqm'>(\?\)</mark>") || " "}</h3>
-                ${card.origin ? `<p>Origin: ${card.origin}</p>` : ""}
+                ${card.origin ? `<p>Origin: ${card.origin.replace(/{Other}/g, "")}</p>` : ""}
                 ${card.set ? `<p>Set/ID: ${card.set}</p>` : ""}
                 ${card.credit ? `<p>Artist's Name: ${card.credit}</p>` : ""}
                 ${card.rarity ? `<p>Rarity: ${card.rarity}</p>` : ""}
