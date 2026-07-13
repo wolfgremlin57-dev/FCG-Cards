@@ -5317,12 +5317,12 @@
                 Map: "Front",
                 effect: "<br><i>Giant (Play this card sideways so it takes up 2 spaces. It can attack directly and target a deactivated card at the same time).</i> <mark>WHILE THIS CARD HAS A VIRUS:</mark> It may attack or block as if it were two seperate cards, but must pay 10% each time.",
             }, {
-                name: "<mark class = 'malharegreen'>Giga Monty</mark>",
+                name: "Giga Monty",
                 origin: "Security Breach",
                 set: "FCG2-Viral Infection-00x",
                 credit: "Steel Wool",
                 rarity: "",
-                design: "Alligater",
+                design: "Alligator",
                 type: "Animatronic",
                 image: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f92d55ca-8441-433e-b818-eeb152a8b8ea/dhqrqp1-87a31b2d-db9f-4030-932d-0c35ef2d06f4.png/v1/fit/w_828,h_1160/giga_monty_by_siresquawks_dhqrqp1-414w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDIwMCIsInBhdGgiOiIvZi9mOTJkNTVjYS04NDQxLTQzM2UtYjgxOC1lZWIxNTJhOGI4ZWEvZGhxcnFwMS04N2EzMWIyZC1kYjlmLTQwMzAtOTMyZC0wYzM1ZWYyZDA2ZjQucG5nIiwid2lkdGgiOiI8PTMwMDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.ju6tR46W0a9fvbl_GQr1bTOD76pzTQu0jwPPtsbYMmM",
                 Jp: "4",
@@ -5348,7 +5348,7 @@
                 set: "FCG2-Viral Infection-00x",
                 credit: "Steel Wool",
                 rarity: "",
-                design: "Alligater",
+                design: "Alligator",
                 type: "Animatronic",
                 image: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f92d55ca-8441-433e-b818-eeb152a8b8ea/dhqrsz1-4a945199-0802-4f4d-a142-828d2f526fe7.png/v1/fit/w_828,h_1160/shattered_monty_by_siresquawks_dhqrsz1-414w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDIwMCIsInBhdGgiOiIvZi9mOTJkNTVjYS04NDQxLTQzM2UtYjgxOC1lZWIxNTJhOGI4ZWEvZGhxcnN6MS00YTk0NTE5OS0wODAyLTRmNGQtYTE0Mi04MjhkMmY1MjZmZTcucG5nIiwid2lkdGgiOiI8PTMwMDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.szIIE9mc-GPVrK-rmpnqMJRwZjN29pw4roA9qhINK20",
                 Jp: "2",
@@ -8220,7 +8220,7 @@
                 Map: "Halls",
                 effect: "<br>DEFENDER (This card can block an attack anywhere). WHEN KILLED: Play a different card with \"Glamrock\" in its name from your hand or salvage for its cost -10% for every \"Virus\" counter on them map (Max 5).",
             }, {
-                name: "Glamrock Freddy (<mark class = 'mediocrepurple'>VIRUS</mark> Mode)",
+                name: "Glamrock Freddy (VIRUS Mode)",
                 origin: "Security Breach/Tales from the Pizzaplex{Other}",
                 set: "FCG3-Twisted Tales-00x",
                 credit: "SireSquawks",
@@ -10265,7 +10265,7 @@ window.onload = () => {
 </div>
 
     <div class="card-body" hidden>
-                <h3>${card.name?.replace(/\(\?\)/g, "<mark class = 'smallqm'>(\?\)</mark>") || " "}</h3>
+                <h3>${card.name?.replace(/\(\?\)/g, "<mark class = 'smallqm'>(\?\)</mark>").replace(/VIRUS/g, "<mark class = 'mediocrepurple'>VIRUS</mark>").replace(/Giga Monty/g, "<mark class = 'malharegreen'>Giga Monty</mark>") || " "}</h3>
                 ${card.origin ? `<p>Origin: ${card.origin.replace(/{Other}/g, "")}</p>` : ""}
                 ${card.set ? `<p>Set/ID: ${card.set}</p>` : ""}
                 ${card.credit ? `<p>Artist's Name: ${card.credit}</p>` : ""}
