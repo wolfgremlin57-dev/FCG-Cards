@@ -1,0 +1,180 @@
+
+            body {
+                font-family: Arial;
+                background: #1f0f2a;
+                color: white;
+                margin: 0;
+                padding: 20px;
+            }
+
+            h1 {
+                text-align: center;
+            }
+
+            .controls {
+                display: flex;
+                gap: 10px;
+                margin-bottom: 20px;
+                flex-wrap: wrap;
+            }
+
+            input, select {
+                padding: 10px;
+                border: none;
+                border-radius: 5px;
+            }
+
+            .grid {
+                display: grid;
+                grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+                gap: 15px;
+            }
+
+            .card {
+                background: #2c1e3b;
+                border-radius: 10px;
+                overflow: hidden;
+                transition: 0.2s;
+            }
+
+            .card:hover {
+                transform: scale(1.03);
+            }
+
+            .card img {
+                width: 100%;
+                height: 300px;
+                object-fit: cover;
+            }
+
+            .card-body {
+                padding: 15px;
+            }
+
+            .image-container {
+                position: relative;
+            }
+
+            mark.red {
+                background: red;
+                color: black;
+            }
+
+            mark.orange {
+                background: orange;
+                color: black;
+            }
+
+            mark.retroorange {
+                background: #ffa50000;
+                color: #ffa603;
+            }
+
+            mark.graftedorange {
+                background: #ffa50000;
+                color: #e37600;
+            }
+
+            mark.altyellow {
+                background: #ffa60300;
+                color: #ffff00;
+            }
+
+            mark.lightyellow {
+                background: #7b6900;
+                color: white;
+            }
+
+            mark.pink {
+                background: #ff3384;
+                color: black;
+            }
+
+            mark.altpink {
+                background: #ff338400;
+                color: #ff3384;
+            }
+
+            mark.pastelpink {
+                background: #f5a1e9;
+                color: black;
+            }
+
+            mark.blue {
+                background: #008bff;
+                color: black;
+            }
+
+            mark.altblue {
+                background: #008bff00;
+                color: #008bff;
+            }
+
+            mark.green {
+                background: #7df469;
+                color: black;
+            }
+
+            mark.malharegreen {
+                background: #7df46900;
+                color: #00e800;
+            }
+
+            mark.agony {
+                background: #008bff00;
+                color: red;
+            }
+
+            mark.purple {
+                background: #f36af9;
+                color: black;
+            }
+
+            mark.mediocrepurple {
+                background: #008bff00;
+                color: #6816fc;
+            }
+
+            mark.viruspurple {
+                background: #450075;
+                color: white;
+            }
+
+            mark.idbearpurple {
+                background: #45007500;
+                color: #4b007e;
+                text-decoration: line-through;
+                text-decoration-color: #4b007e;
+            }
+
+            mark.idunder {
+                background: #45007500;
+                color: #4b007e;
+                text-decoration: underline;
+                text-decoration-color: #4b007e;
+            }
+
+            mark.smallqm {
+                background: #45007500;
+                color: white;
+                font-size: 0.5em;
+            }
+
+            /*.tooltip {
+                position: absolute;
+                bottom: 20px;
+                left: 16px;
+                background: rgba(0,0,0,0);
+                color: rgba(0,0,0,0);
+                padding: 10px;
+                border-radius: 8px;
+                width: 180px;
+                opacity: 0;
+                transition: 0.2s;
+                pointer-events: none;
+                font-size: 14px;
+            }
+
+            .image-container:hover .tooltip {
+                opacity: 1;
+            }*/
