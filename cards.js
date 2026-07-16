@@ -6475,7 +6475,7 @@
                 Jp: "0",
                 power: "H100",
                 Map: "Left_Office",
-                effect: "<br><i>REQUIREMENT: You must have a \"Freddy\", a \"Bonnie\", a \"Chica\", a \"Foxy\" and a \"Fredbear\" card in your salvage- OR you must control 5 [Spirits].</i><br>This card has +1 JP for each [Spirit] card you control. ONCE PER TURN: Kill a card in play whose JP is less then the number of [Spirits] you control minus 1.",
+                effect: "<br><i>REQUIREMENT: You must have a \"Freddy\", a \"Bonnie\", a \"Chica\", a \"Foxy\" and a \"Fredbear\" card in your salvage- OR you must control 5 [Spirits].</i><br>This card has +1 JP for each [Spirit] card you control. ONCE per TURN: Kill a card in play whose JP is less then the number of [Spirits] you control minus 1.",
             }, {
                 name: "Micheal Brooks (Novels)",
                 origin: "Silver Eyes",
