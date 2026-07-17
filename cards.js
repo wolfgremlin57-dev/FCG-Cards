@@ -1355,7 +1355,7 @@
                 set: "FCG1-Cawthon Chaos-104",
                 credit: "Scott Cawthon",
                 rarity: "☆☆",
-                design: "Humanoid/'Child'",
+                design: "Humanoid/\"Child\"",
                 type: "???",
                 image: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f92d55ca-8441-433e-b818-eeb152a8b8ea/dksf1oh-929487ba-bec3-471a-a8d3-0f6906c5f365.png/v1/fit/w_750,h_984/nightmare_bb_v3_by_siresquawks_dksf1oh-375w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTE4MCIsInBhdGgiOiIvZi9mOTJkNTVjYS04NDQxLTQzM2UtYjgxOC1lZWIxNTJhOGI4ZWEvZGtzZjFvaC05Mjk0ODdiYS1iZWMzLTQ3MWEtYThkMy0wZjY5MDZjNWYzNjUucG5nIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.xZ7SlUH4IooNAKbnIDhc5qFy2fiD_RKn45WlY5NCn80",
                 Jp: "3",
@@ -7804,7 +7804,7 @@
                 Map: "Front",
                 effect: "<br>You must reduce this card play cost by at least 50% to play this card. This card costs -10% less for every 2 \"Virus\" counters on your map. UPON VIRUS: Gain 10% power- then you Must discard the top card of your deck.",
             }, {
-                name: "The Mimic (Prototype)",
+                name: "Mimic (Prototype)",
                 origin: "Tales from the Pizzaplex",
                 set: "FCG3-Twisted Tales-00x",
                 credit: "SireSquawks",
@@ -7999,7 +7999,7 @@
                 Map: "Omni",
                 effect: "<br>When you play a [Customization] you may add a \"Virus\" counter to a card on your map. ONCE PER TURN: You may move a counter from one card you control to another for the turn. If that was a \"Virus\" counter it's permanent.",
             }, {
-                name: "Tiger Rock (Glamrock Mimic)",
+                name: "Tiger Rock \"Glamrock Mimic\"",
                 origin: "Tales from the Pizzaplex",
                 set: "FCG3-Twisted Tales-00x",
                 credit: "SireSquawks",
@@ -8640,7 +8640,7 @@
                 Jp: "3",
                 power: "90",
                 Map: "Uber",
-                effect: "BIZARRe. <i>REQUIREMENT: 3 [FOX] or [Amalgam] trait cards in play, or 3 cards that have {BIzaRRE} somwhere in their text. Be ready.</i> TWICE PER TURN: When a \"Mangle\" card or a card with {BIzaRRE} in its text is killed- you may move this card to where it was on your map and reactivate this card. If that card had any counters on it- add them to this card.",
+                effect: "BIZARRe. <i>REQUIREMENT: 3 [Fox] or [Amalgam] trait cards in play, or 3 cards that have {BIzaRRE} somwhere in their text. Be ready.</i> TWICE PER TURN: When a \"Mangle\" card or a card with {BIzaRRE} in its text is killed- you may move this card to where it was on your map and reactivate this card. If that card had any counters on it- add them to this card.",
             }, {
                 name: "Harelquin Baby",
                 origin: "Freddy’s Bizarre Wonderland",
@@ -9383,7 +9383,7 @@
                 Jp: "3",
                 power: "70",
                 Map: "Front",
-                effect: "<br>This card has -1 JP while its Deactivated. ONCE PER TURN: Discard 1 card from your hand to move a card on your opponent's map to an open Front-row space on their map.",
+                effect: " This card has -1 JP while its Deactivated. ONCE PER TURN: Discard 1 card from your hand to move a card on your opponent's map to an open Front-row space on their map.",
             }, {
                 name: "Digityper \"Old Staffbot\"",
                 origin: "Secret of the Mimic",
@@ -9396,7 +9396,7 @@
                 Jp: "0",
                 power: "20",
                 Map: "OfficeLR",
-                effect: "<br>ONCE PER TURN: Discard a card from your hand- until the end of your opponent's turn when this card blocks it can't be killed by a card with more JP than it.",
+                effect: " ONCE PER TURN: Discard a card from your hand- until the end of your opponent's turn when this card blocks it can't be killed by a card with more JP than it.",
             }, {
                 name: "Mycellium Man \"Mimic\"",
                 origin: "Secret of the Mimic",
