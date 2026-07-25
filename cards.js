@@ -848,7 +848,7 @@
                 Map: "OfficeLR",
                 effect: " WHEN ATTACKING: If this attack isn't blocked- Deal 1 damage. If you control another [Chicken] or a [Springlock] card- Deal 2 damage instead. Kill this card after it attacks.",
             }, {
-                name: "Phanton Foxy",
+                name: "Phantom Foxy",
                 origin: "FNAF 3",
                 set: "FCG1-Cawthon Chaos-064",
                 credit: "Scott Cawthon",
