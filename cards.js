@@ -1220,7 +1220,7 @@
                 Map: "Front",
                 effect: "<br>For every 20% you spend on playing this card- your opponent must either heal 2 or draw 1 card. You may use the following effects to lower its cost:<br>*You may kill every card on your map possible to reduce this card's play cost by 20% for each card killed by this effect.<br>*You may choose to take any amount of damage to reduce this card's play cost by 10% for every 2 damage taken."
             }, {
-                name: "Plushtrap",
+                name: "Plushtrap \"The Little Nightmare\"",
                 origin: "FNAF 4",
                 set: "FCG1-Cawthon Chaos-094",
                 credit: "Scott Cawthon",
