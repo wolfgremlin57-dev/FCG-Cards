@@ -2205,7 +2205,7 @@
                 Jp: "1",
                 power: "70",
                 Map: "Front",
-                effect: "AGGRESSIVe. This card has +1 JP for every unique \"Funtime\" card that's in your salvage (Max 5)",
+                effect: "AGGRESSIVe. This card has +1 JP for every unique \"Funtime\" card that's in your salvage (Max 5). END OF YOUR TURN: Either Discard the top two cards of your deck or kill this card.",
             }, {
                 name: "Michael Afton \"Eggs Benedict\", \"Mike (SL)\"",
                 origin: "Sister Location",
