@@ -259,7 +259,7 @@
                 image: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f92d55ca-8441-433e-b818-eeb152a8b8ea/dkwbmqh-26bf3196-e603-4c52-9839-b0143152962e.png/v1/fit/w_828,h_1086/hallucinations_by_siresquawks_dkwbmqh-414w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTE4MCIsInBhdGgiOiIvZi9mOTJkNTVjYS04NDQxLTQzM2UtYjgxOC1lZWIxNTJhOGI4ZWEvZGt3Ym1xaC0yNmJmMzE5Ni1lNjAzLTRjNTItOTgzOS1iMDE0MzE1Mjk2MmUucG5nIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.n0U9JKH-6Tke_qGRT9wj6Cz86vzcoIIaMjuFdConj9c",
                 power: "0",
                 Map: "Off Map",
-                effect: "<br>Your opponet draws a card then discards a card from their hand.",
+                effect: "<br>Your opponent draws a card then discards a card from their hand.",
             }, {
                 name: "Foxy's Pirate Humming",
                 origin: "FNAF 1",
@@ -314,7 +314,7 @@
                 image: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f92d55ca-8441-433e-b818-eeb152a8b8ea/dkwbmpv-52936b13-ef8d-4d34-bb72-f29ce05f6273.png/v1/fit/w_750,h_984/secret_code__1987_by_siresquawks_dkwbmpv-375w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTE4MCIsInBhdGgiOiIvZi9mOTJkNTVjYS04NDQxLTQzM2UtYjgxOC1lZWIxNTJhOGI4ZWEvZGt3Ym1wdi01MjkzNmIxMy1lZjhkLTRkMzQtYmI3Mi1mMjljZTA1ZjYyNzMucG5nIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.Fz6AcJdGFHNs2-Kpg3dK1jCWr5LMbnt6t48A6o8M_gc",
                 power: "40",
                 Map: "Off Map",
-                effect: "<br>AUGMENT a card on your map. Give that card +1 JP and make it uNSTOPPABLe if it has 6 or more JP now. If that card was already uNSTOPPABLe and has 6 or more JP- it now can't be blocked by anthing.",
+                effect: "<br>AUGMENT a card on your map. Give that card +1 JP and make it uNSTOPPABLe if it has 6 or more JP now. If that card was already uNSTOPPABLe and has 6 or more JP- it now can't be blocked by anything.",
             }, {
                 name: "20/20/20/20",
                 origin: "FNAF 1",
@@ -375,7 +375,7 @@
                 Jp: "1",
                 power: "20",
                 Map: "Vent",
-                effect: "<br>If you discarded a card from your hand or deck, make this card a dEFENDEr until your next turn. WHEN PLAYED: Play a \"Cupcake\" token {0 JP Cupcake | Food- \"You may kill this card to heal 1\"}. in any of your open front row spaces.",
+                effect: "<br>If you discarded a card from your hand or deck, make this card a dEFENDEr until your next turn. WHEN PLAYED: Play a \"Cupcake\" token {0 JP Cupcake | Food | \"You may kill this card to heal 1\"}. in any of your open front row spaces.",
             }, {
                 name: "Mr. Cupcake {token}",
                 origin: "FNAF 2",
@@ -656,7 +656,7 @@
                 credit: "Scott Cawthon",
                 rarity: "☆☆☆",
                 design: "Child(ren)",
-                type: "Spirits",
+                type: "Spirit(s)",
                 image: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f92d55ca-8441-433e-b818-eeb152a8b8ea/dlik76g-040aaabe-4dbc-4aa7-996f-60f30a3508c4.png/v1/fit/w_750,h_984/the_other_vicitims_by_siresquawks_dlik76g-375w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTE4MCIsInBhdGgiOiIvZi9mOTJkNTVjYS04NDQxLTQzM2UtYjgxOC1lZWIxNTJhOGI4ZWEvZGxpazc2Zy0wNDBhYWFiZS00ZGJjLTRhYTctOTk2Zi02MGYzMGEzNTA4YzQucG5nIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.1YrLNId1GQFzZYpmyyKMKMfY2G0LyRS8Vvqd4gJhUMg",
                 Jp: "0",
                 power: "20",
@@ -683,7 +683,7 @@
                 image: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f92d55ca-8441-433e-b818-eeb152a8b8ea/dlha2o5-0986d18e-4f60-4625-9558-25c119b68eb5.png/v1/fill/w_381,h_500/take_apart_and_put_back_together_again_by_siresquawks_dlha2o5-250t-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTE4MCIsInBhdGgiOiIvZi9mOTJkNTVjYS04NDQxLTQzM2UtYjgxOC1lZWIxNTJhOGI4ZWEvZGxoYTJvNS0wOTg2ZDE4ZS00ZjYwLTQ2MjUtOTU1OC0yNWMxMTliNjhlYjUucG5nIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.3Dw05lQNKqkLXuJCCSrSRlq7vDQ75KNVW6caq5946vM",
                 power: "10",
                 Map: "Off Map",
-                effect: "<br>Kill a \"Funtime Foxy\" or \"Mangle\" card you control to play \"Mangle\" card from your hand for it's cost -40%, then gain 10% for every point of JPthe killed card had"
+                effect: "<br>Kill a \"Funtime Foxy\" or \"Mangle\" card you control to play \"Mangle\" card from your hand for it's cost -40%, then gain 10% for every point of JP the killed card had"
             }, {
                 name: "FlashLight",
                 origin: "FNAF 2",
@@ -715,7 +715,7 @@
                 type: "Customization",
                 image: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f92d55ca-8441-433e-b818-eeb152a8b8ea/dktc4ho-e2f8a01e-b538-4d33-a6b1-501e3112ab3a.png/v1/fill/w_381,h_500/my_grandfather_s_clock_v3_by_siresquawks_dktc4ho-250t-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTE4MCIsInBhdGgiOiIvZi9mOTJkNTVjYS04NDQxLTQzM2UtYjgxOC1lZWIxNTJhOGI4ZWEvZGt0YzRoby1lMmY4YTAxZS1iNTM4LTRkMzMtYTZiMS01MDFlMzExMmFiM2EucG5nIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.RJsyYiJWdtmTnxFQjmcbYbPqC30L1PwU_4og3FVpw-w",
                 power: "10",
-                map: "Off Map",
+                Map: "Off Map",
                 effect: "<br>you may move or add a \"Music Box\" counter from to, or between one character and another in play.",
             }, {
                 name: "Rare Screen: Dead-Eyed Stare",
@@ -750,7 +750,7 @@
                 image: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f92d55ca-8441-433e-b818-eeb152a8b8ea/dktc4hc-41d38ac0-a89b-46c5-94b6-3004c04caff3.png/v1/fit/w_828,h_1086/give_gifts_give_life_by_siresquawks_dktc4hc-414w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTE4MCIsInBhdGgiOiIvZi9mOTJkNTVjYS04NDQxLTQzM2UtYjgxOC1lZWIxNTJhOGI4ZWEvZGt0YzRoYy00MWQzOGFjMC1hODliLTQ2YzUtOTRiNi0zMDA0YzA0Y2FmZjMucG5nIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.hfO7OKp9exnr4CcQolAx9uC16cJpJJDMMMZ-VekaL3E",
                 power: "30",
                 map: "Off Map",
-                effect: "<br>AUGMENT a card you control. when a the chosen card would be killed send this to the salvage instead. At the end of your oppenent's turn if you don't control a \"Puppet\" or a \"Charlie\" card kill this"
+                effect: "<br>AUGMENT a card you control. when a the chosen card would be killed send this to the salvage instead. At the end of your oppenent's turn if you don't control a \"Charlie\" or a \"Puppet\" card- kill this card."
             }, {
                 name: "Foxy Go Go Go!",
                 origin: "FNAF 2",
@@ -772,7 +772,7 @@
                 image: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f92d55ca-8441-433e-b818-eeb152a8b8ea/dktc4h4-ad4f0420-5ca0-4b23-866c-b6350e4b9799.png/v1/fit/w_828,h_1086/night_of_misfits_v3_by_siresquawks_dktc4h4-414w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTE4MCIsInBhdGgiOiIvZi9mOTJkNTVjYS04NDQxLTQzM2UtYjgxOC1lZWIxNTJhOGI4ZWEvZGt0YzRoNC1hZDRmMDQyMC01Y2EwLTRiMjMtODY2Yy1iNjM1MGU0Yjk3OTkucG5nIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.uxRBetk4RlcdLSk9DPudcnkEElBAYnXVP6BZFQiV3jc",
                 power: "10",
                 Map: "Off Map",
-                effect: "<br>Discard the top of your deck, if it's a [???] card, discard another-do so unil you either discard a non-[???] card &/or discarded 5 cards. then reveal the top card of your deck if it has the play cost of 10x the number of cards you discarded, you may play it for no cost- if it didn't then either ARCHIVE it or leave it as it is."
+                effect: "<br>Discard the top of your deck, if it's a [???] card, discard another-do so until you either discard a non-[???] card &/or discarded 5 cards. then reveal the top card of your deck if it has the play cost of 10x the number of cards you discarded, you may play it for no cost- if it didn't then either ARCHIVE it or leave it as it is."
             }, {
                 name: "Freddy Fazbear's Pizza 2",
                 origin: "FNAF 2",
@@ -950,9 +950,9 @@
                 Jp: "0",
                 power: "30",
                 Map: "Off Map",
-                effect: "<br>You may SCRAP this to play an Off Map card from your hand for -10% for every 5 cards in your salvage. WHEN PLAYED: Reavel the top card of your deck- either add it to your hand or discard it to shuffle the deck & repeat the whole process up to 5 total times.",
+                effect: "<br>You may SCRAP this to play an Off Map card from your hand for -10% for every 5 cards in your salvage. WHEN PLAYED: Reveal the top card of your deck- either add it to your hand or discard it to shuffle the deck & repeat the whole process up to 5 total times.",
             }, {
-                name: "Follow Me",
+                name: "Follow Me.",
                 origin: "FNAF 3",
                 set: "FCG1-Cawthon Chaos-072",
                 credit: "Scott Cawthon",
@@ -1133,6 +1133,7 @@
                 name: "Nightmare Bonnie",
                 origin: "FNAF 4",
                 set: "FCG1-Cawthon Chaos-088",
+                credit: "Scott Cawthon",
                 rarity: "☆",
                 design: "Rabbit",
                 type: "illusion",
@@ -1140,7 +1141,7 @@
                 Jp: "1",
                 power: "30",
                 Map: "Left_Hall",
-                effect: "<br>When this card attcks a deactivated card- the deactivated card has -2 JP for the fight. ONCE PER TURN: Deactivate a card whose Jp is equal to or less then the number of cards on your map and is also adjacent to a \"Nightmare\" or \"Bonnie\"card",
+                effect: "<br>When this card attacks a deactivated card- the deactivated card has -2 JP for the fight. ONCE PER TURN: Deactivate a card whose JP is equal to or less then the number of cards on your map and is also adjacent to a \"Nightmare\" or \"Bonnie\" card",
             }, {
                 name: "Nightmare Bonnie",
                 origin: "FNAF 4",
@@ -1153,7 +1154,7 @@
                 Jp: "1",
                 power: "30",
                 Map: "Left_Hall",
-                effect: "<br>When this card attcks a deactivated card- the deactivated card has -2 JP for the fight. ONCE per TURN: Deactivate a card whose Jp is equal to or less then the number of cards on your map and is also adjacent to a \"Nightmare\" or \"Bonnie\"card",
+                effect: "<br>When this card attacks a deactivated card- the deactivated card has -2 JP for the fight. ONCE per TURN: Deactivate a card whose JP is equal to or less then the number of cards on your map and is also adjacent to a \"Nightmare\" or \"Bonnie\" card",
             }, {
                 name: "Nightmare Chica",
                 origin: "FNAF 4",
@@ -1192,7 +1193,7 @@
                 Jp: "1",
                 power: "80",
                 map: "Halls",
-                effect: "<br><i>Aggressive (This card can attack the turn its played).</i> WHEN PLAYED: Reveal \"Nightmare\" or \"Foxy\" cards in your hand to Gain 10% for each revealed card. START OF YOUR TURN: If your other hall or vent is open- you must most move this card to either of them- if you did add a +1 JP counter to this card.",
+                effect: "<br><i>Aggressive (This card can attack the turn its played).</i> WHEN PLAYED: Reveal \"Nightmare\" or \"Foxy\" cards in your hand to Gain 10% for each revealed card. START OF YOUR TURN: If your other hall or vent is open- you must move this card to either of them- if you did add a +1 JP counter to this card.",
             }, {
                 name: "Nightmare Fredbear",
                 origin: "FNAF 4",
@@ -1296,7 +1297,7 @@
                 Jp: "0",
                 power: "20",
                 Map: "Vent",
-                effect: "<br>This card is played deactivated. you may SCRAP this card- kill a \"Toy\" you control to Gain power equal to its cost. WHEN PLAYED: Reavel the top 4 cards of your deck- add a \"Toy\" among then to our hand, then ARCHIVE- Add a \"Toy\" card from your salvage to your hand.",
+                effect: "<br>This card is played deactivated. you may SCRAP this card- kill a \"Toy\" you control to Gain power equal to its cost. WHEN PLAYED: Reveal the top 4 cards of your deck- add a \"Toy\" among then to our hand, then ARCHIVE- Add a \"Toy\" card from your salvage to your hand.",
             }, {
                 name: "Balloon Kid",
                 origin: "FNAF 4",
