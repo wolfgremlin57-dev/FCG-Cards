@@ -1525,7 +1525,7 @@
                 Jp: "5",
                 power: "H100",
                 Map: "Left_Office",
-                effect: "<br>While this card is deactivated- it has -2 JP. When you play or SCRAP a [Game] card- add a counter to this card. When this card would be killed, you \(\MUST\) remove 4 counters from it to keep it alive if possible. When ATTACKING: You must remove 2 counters from this card to attack. This card can't attack normally- instead it must attack the Left_Hall, Vent, & Right_Hall of both maps (in that order- your side first). If this card loses a fight- end the attack. After this card attacks- it doesn't reactivate next turn.",
+                effect: "<br>While this card is deactivated- it has -2 JP. When you play or SCRAP a [Game] card- add a counter to this card. When this card would be killed, you \(\MUST\) remove 4 counters from it to keep it alive if possible. When ATTACKING: You must remove 2 counters from this card to attack. This card can't attack normally- instead it must attack the Left Hall, Vent, & Right Hall of both maps (in that order- your side first). If this card loses a fight- end the attack. After this card attacks- it doesn't reactivate next turn.",
             }, {
                 name: "Chipper's Revenge",
                 origin: "FNAF World/Chipper and Sons Lumber Co.{Other}",
