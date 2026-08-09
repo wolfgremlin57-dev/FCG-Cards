@@ -11,7 +11,7 @@
                 type: "Animatronic",
                 image: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f92d55ca-8441-433e-b818-eeb152a8b8ea/dko2zyr-1b873228-95fa-49f1-9767-ffead70effcf.png/v1/fit/w_828,h_1086/freddy_fazbear__fnaf_tcg_ver3_test__by_siresquawks_dko2zyr-414w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTE4MCIsInBhdGgiOiIvZi9mOTJkNTVjYS04NDQxLTQzM2UtYjgxOC1lZWIxNTJhOGI4ZWEvZGtvMnp5ci0xYjg3MzIyOC05NWZhLTQ5ZjEtOTc2Ny1mZmVhZDcwZWZmY2YucG5nIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.kgr3axZK2Hvy34PImMbKS_NzV7mLKiEdIRO5QilQR10",
                 Jp: "2",
-                power: "60%",
+                power: "60",
                 Map: "Right_Hall",
                 effect: "<br>While the Power is set to 0%- this card has +1 JP. ONCE PER TURN: If this card attacks while there's a card in your left hall- Gain 20%.",
             }, {
