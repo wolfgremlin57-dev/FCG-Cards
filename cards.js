@@ -3169,7 +3169,7 @@
                 power: "40",
                 Jp: "1",
                 Map: "Off Map",
-                effect: "When one of your \"Mangle\" or \"Funtime Foxy\" cards is Killed, you may SCRAP this card to play another \"Mangle\" card from your hand or salvage for its cost -40%, then if it was your turn- Gain 20% Power. WHEN PLAYEDKILLED: You may add a \"Mangle\" from your deck to your hand, then shuffle your deck. If you couldn't- use your salvage.",
+                effect: "<br>When one of your \"Mangle\" or \"Funtime Foxy\" cards is Killed, you may SCRAP this card to play another \"Mangle\" card from your hand or salvage for its cost -40%, then if it was your turn- Gain 20% Power. WHEN PLAYEDKILLED: You may add a \"Mangle\" from your deck to your hand, then shuffle your deck. If you couldn't- use your salvage.",
             }, {
                 name: "EggBaby Data Archive",
                 origin: "FNAF 6 (Pizza Sim.)",
@@ -3182,7 +3182,7 @@
                 power: "30",
                 Jp: "0",
                 Map: "Off Map",
-                effect: "When you deal damage to yourself with an effect, Heal 1, Draw 1 Card and add a counter to this card. <br>Once this card has 5 counters, kill this card then take 2 Damage & Discard 2 cards from your hand.",
+                effect: "<br>When you deal damage to yourself with an effect, Heal 1, Draw 1 Card and add a counter to this card. <br>Once this card has 5 counters, kill this card then take 2 Damage & Discard 2 cards from your hand.",
             }, {
                 name: "Bubba",
                 origin: "FNAF World",
