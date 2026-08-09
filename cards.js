@@ -3219,7 +3219,7 @@
                 image: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f92d55ca-8441-433e-b818-eeb152a8b8ea/dmlk4tf-29c7d04e-b022-4ba4-8cd2-7b6c3d2b1c81.png/v1/fit/w_828,h_1086/exotic_butters_by_siresquawks_dmlk4tf-414w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTE4MCIsInBhdGgiOiIvZi9mOTJkNTVjYS04NDQxLTQzM2UtYjgxOC1lZWIxNTJhOGI4ZWEvZG1sazR0Zi0yOWM3ZDA0ZS1iMDIyLTRiYTQtOGNkMi03YjZjM2QyYjFjODEucG5nIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.nIhDnuLSIGs514XPvGbfxH436T4JYN6WoR_eIpGhdek",
                 power: "40",
                 Map: "Off Map",
-                effect: "<br><i>REQUIREMENT: \"Ennard\" in your Salvage.<i> PERSISTENt. When you use the {Per Turn} effect of a \"Mike\" or \"Michael\" card with \"Afton\" also in its name, Draw 1 card.",
+                effect: "<br><i>REQUIREMENT: \"Ennard\" in your Salvage.</i> PERSISTENt. When you use the {Per Turn} effect of a \"Mike\" or \"Michael\" card with \"Afton\" also in its name, Draw 1 card.",
             }, {
                 name: "Freddy Fazbear (LLC)",
                 origin: "Help Wanted 1",
