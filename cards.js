@@ -3208,7 +3208,7 @@
                 power: "0",
                 Jp: "0",
                 Map: "Off Map",
-                effect: "WHEN PLAYED: Reveal the top card of your deck, if its a \"Happiest Day\" or [Child Spirit] add it to your hand, play it for -10%, or if not- ARCHIVE it.",
+                effect: " WHEN PLAYED: Reveal the top card of your deck, if its a \"Happiest Day\" or [Child Spirit] add it to your hand, play it for -10%, or if not- ARCHIVE it.",
             }, {
                 name: "Exotic Butters",
                 origin: "Sister Loction",
