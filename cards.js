@@ -3257,7 +3257,7 @@
                 image: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f92d55ca-8441-433e-b818-eeb152a8b8ea/dmahzny-981fb146-1127-45e2-ba40-98e20a256be4.png/v1/fit/w_828,h_1086/chica_llc_by_siresquawks_dmahzny-414w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTE4MCIsInBhdGgiOiIvZi9mOTJkNTVjYS04NDQxLTQzM2UtYjgxOC1lZWIxNTJhOGI4ZWEvZG1haHpueS05ODFmYjE0Ni0xMTI3LTQ1ZTItYmE0MC05OGUyMGEyNTZiZTQucG5nIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.fFvIRodmrOdofdsGNxF71SooI0olDSZGG6NpUPM8Sqk",
                 Jp: "2",
                 power: "50",
-                map: "Right_Hall",
+                Map: "Right_Hall",
                 effect: "<br><i>Defender (This card can block any attack).</i> TWICE PER TURN: Discard the top card of your deck or a card from your hand. If that card was a [Food] card, Deal 1 Damage.",
             }, {
                 name: "Foxy (LLC)",
