@@ -1605,7 +1605,7 @@
                 Map: "Omni",
                 effect: " End OF EITHER TURN: Reactivate this card. WHEN PLAYED: Each player return 5 cards they control to their hand. If you returned this card to your hand this way- Take 6 damage. Start OF YOUR TURN: You may discard 4 cards from your hand- if you don't- this card can't attack/block until your next turn. If all 4 cards were \"Chica\" or [Game] cards- make this card an uNSTOPPABLe dEFENDEr until the end of your opponent's turn.",
             }, {
-                name: "CHica's Magic Rainbow",
+                name: "Chica's Magic Rainbow",
                 origin: "FNAF World: Halloween Update",
                 set: "FCG1-Cawthon Chaos-123 (Alt Art)",
                 credit: "Overmeme",
