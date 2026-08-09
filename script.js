@@ -44,7 +44,7 @@ window.onload = () => {
 </div>
 
     <div class="card-body" hidden>
-                <h3>${card.name?.replace(/\(\?\)/g, "<mark class = 'smallqm'>(\?\)</mark>").replace(/VIRUS/g, "<mark class = 'mediocrepurple'>VIRUS</mark>").replace(/Giga Monty/g, "<mark class = 'malharegreen'>Giga Monty</mark>").replace(/ CHica's magic Rainbow/g, "<br><mark class = 'altpink'>Chica's </mark><mark class = 'yellow'>Magic</mark><mark class = 'altblue'>Rainbow</mark>") || " "}</h3>
+                <h3>${card.name?.replace(/\(\?\)/g, "<mark class = 'smallqm'>(\?\)</mark>").replace(/VIRUS/g, "<mark class = 'mediocrepurple'>VIRUS</mark>").replace(/Giga Monty/g, "<mark class = 'malharegreen'>Giga Monty</mark>").replace(/Chica's Magic Rainbow/g, "<br><mark class = 'altpink'>Chica's</mark><mark class = 'altyellow'> Magic </mark><mark class = 'altblue'>Rainbow</mark>") || " "}</h3>
                 ${card.origin ? `<p>Origin: ${card.origin.replace(/{Other}/g, "")}</p>` : ""}
                 ${card.set ? `<p>Set/ID: ${card.set}</p>` : ""}
                 ${card.credit ? `<p>Artist's Name: ${card.credit}</p>` : ""}
