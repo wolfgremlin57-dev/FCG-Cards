@@ -3195,7 +3195,7 @@
                 power: "50",
                 Jp: "3",
                 Map: "Left_Hall",
-                effect: "This card is rETIREd while you have 20% or more. ONCE PER TURN: Either take 1 Damage to Gain 30% Power or Pay Power 30% to Deal 1 Damage.",
+                effect: "<br>This card is rETIREd while you have 20% or more. ONCE PER TURN: Either take 1 Damage to Gain 30% Power or Pay Power 30% to Deal 1 Damage.",
             }, {
                 name: "Green Mask Kid \"Greeny Mcsnoot, Andrew???\"",
                 origin: "FNAF 3",
