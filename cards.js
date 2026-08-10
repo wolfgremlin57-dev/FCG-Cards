@@ -5265,7 +5265,7 @@
                 Jp: "0",
                 power: "60",
                 Map: "Omni",
-                effect: "<br><i>-Main Attraction- 1 [Puppet]<i> <br>This card must be worn by a [Puppet] you control, you can't play this card otherwise. this card can't use its effects if it not being worn. any card wearing this card has no effects, Any \"Music Box\" counter on this card or the card wearing, it may moved it to  a different card you control at anytime. ONCE PER TURN: When a [Puppet} you control would use an \"Your Opponent must either\", you may deactivaite this card to trigger that effect again. End of Your Opponent Turn: If you haven't placed a \"Music Box\" counter since the end of your last turn, you may add a \"Music Box\" counter to this card.",
+                effect: "<br><i>-Main Attraction- 1 [Puppet]</i> <br>This card must be worn by a [Puppet] you control, you can't play this card otherwise. this card can't use its effects if it not being worn. any card wearing this card has no effects, Any \"Music Box\" counter on this card or the card wearing, it may moved it to  a different card you control at anytime. ONCE PER TURN: When a [Puppet} you control would use an \"Your Opponent must either\", you may deactivaite this card to trigger that effect again. End of Your Opponent Turn: If you haven't placed a \"Music Box\" counter since the end of your last turn, you may add a \"Music Box\" counter to this card.",
             }, {
                 name: "Faz Camera",
                 origin: "Security Breach",
