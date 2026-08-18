@@ -132,7 +132,7 @@
                 Map: "Front",
                 effect: "<br>",
             }, {
-                name: "Mike...Schmidt? \"Micheal Afton\"",
+                name: "Mike...Schmidt? \"Michael Afton\"",
                 origin: "FNAF 1",
                 set: "FCG1-Cawthon Chaos-008",
                 credit: "Scott Cawthon",
@@ -820,7 +820,7 @@
                 Jp: "3",
                 power: "60",
                 Map: "Front",
-                effect: "<br>If this card attacks without dealing damage- take 1 damage. ONCE PER TURN: discard an Afton, [Springlock], or [Spirit] card from your hand to Gain 10% power and/or move this card one space laterally"
+                effect: "<br>If this card attacks without dealing damage- take 1 damage. ONCE PER TURN: discard a card from your hand to Gain 10% power or move this card laterally. If it was an \"Afton\", [Illusion] or [Springlock]- Draw 1."
             }, {
                 name: "Phantom Freddy",
                 origin: "FNAF 3",
@@ -1193,7 +1193,7 @@
                 Jp: "1",
                 power: "80",
                 map: "Halls",
-                effect: "<br><i>Aggressive (This card can attack the turn its played).</i> WHEN PLAYED: Reveal \"Nightmare\" or \"Foxy\" cards in your hand to Gain 10% for each revealed card. START OF YOUR TURN: If your other hall or vent is open- you must move this card to either of them- if you did add a +1 JP counter to this card.",
+                effect: "<br><i>Aggressive (This card can attack the turn its played).</i> WHEN PLAYED: Reveal \"Nightmare\" or \"Foxy\" cards in your hand to Gain 10% for each revealed card. START OF YOUR TURN: If your other hall or vent is open- you must move this card to either of them- if you did add a +1 JP counter to this card (Max 4).",
             }, {
                 name: "Nightmare Fredbear",
                 origin: "FNAF 4",
@@ -2215,10 +2215,10 @@
                 design: "Adult",
                 type: "Human",
                 image: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f92d55ca-8441-433e-b818-eeb152a8b8ea/dkrlaps-20f25948-3cae-4818-8508-17210622e26b.png/v1/fit/w_750,h_984/michael_afton_v3_by_siresquawks_dkrlaps-375w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTE4MCIsInBhdGgiOiIvZi9mOTJkNTVjYS04NDQxLTQzM2UtYjgxOC1lZWIxNTJhOGI4ZWEvZGtybGFwcy0yMGYyNTk0OC0zY2FlLTQ4MTgtODUwOC0xNzIxMDYyMmUyNmIucG5nIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.jdKBZOGlJyPWMm3K-TWnr-C2KT_0vBlTH54r3CRjHiM",
-                Jp: "0",
+                Jp: "1",
                 power: "30",
                 Map: "Front",
-                effect: " ONCE PER TURN: When you play a card from your salvage- Gain 10% power &/or move this card to an adjacent space. WHEN KILLED: Play a different \"Michael\" or \"Mike\" card from your salvage for no cost, deactivated.",
+                effect: " ONCE PER TURN: When you play a card from your salvage- Gain 20% power &/or move this card to an adjacent space. WHEN KILLED: Play a different \"Michael\" or \"Mike\" card from your salvage for no cost, deactivated.",
             }, {
                 name: "Michael Afton (Corpse) \"Scrambeled Eggs Benedict\"",
                 origin: "Sister Location",
@@ -2228,10 +2228,10 @@
                 design: "Adult",
                 type: "Human/Corpse",
                 image: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f92d55ca-8441-433e-b818-eeb152a8b8ea/dkrlapw-efc64e1e-485e-4a8a-aa80-a091bded7eef.png/v1/fit/w_750,h_984/michael_afton_corpse_by_siresquawks_dkrlapw-375w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTE4MCIsInBhdGgiOiIvZi9mOTJkNTVjYS04NDQxLTQzM2UtYjgxOC1lZWIxNTJhOGI4ZWEvZGtybGFwdy1lZmM2NGUxZS00ODVlLTRhOGEtYWE4MC1hMDkxYmRlZDdlZWYucG5nIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.T6bVAw9FZsmrn9iJyMNLSbQ1qM-PdQbzPt7DjL3TKuE",
-                Jp: "0",
+                Jp: "1",
                 power: "70",
                 Map: "Omni",
-                effect: " ONCE PER EITHER TURN: When this card would be killed- return 2 characters from your salvage to your deck bottom to keep it alive. WHEN BLOCKING: Discard 1 card from your hand. If the card you blocked had less JP than the card your discarded- return that card to their hand.",
+                effect: "<br> On either turn When this card would be killed- return 2 characters from your salvage to your deck bottom to negate it being killed. WHEN BLOCKING: Discard 1 card from your hand. If the card you blocked had less JP than the card your discarded- return that card to their hand.",
             }, {
                 name: "Lolbit",
                 origin: "Sister Location",
@@ -2921,7 +2921,7 @@
                 Jp: "4",
                 power: "H100",
                 Map: "Omni",
-                effect: "<br><i>REQUIREMENT: 5 \"Fredbear\" or \"Golden\" cards in your salvage.</i><br>This card may be WORN by an [Adult].<br>When a \"Golden Freddy\" you control is killed- you may play this card where it was with a +2 JP counter on it for it's cost. When played this way it's JP can't be lowered by outside effects, and this card becomes uNSTOPPABLe, aGGRESSIVe, and a dEFENDEr.",
+                effect: "<br><i>REQUIREMENT: 5 \"Fredbear\", [Springlock] and/or \"Golden\" cards in your salvage; ignore this requirement when using this card special play effect.</i><br>This card may be WORN by an [Adult].<br>When a \"Golden Freddy\" you control is killed- you may play this card where it was with a +2 JP counter on it for it's cost. When played this way it's JP can't be lowered by outside effects, and this card becomes uNSTOPPABLe, aGGRESSIVe, and a dEFENDEr.",
             }, {
                 name: "DeeDee",
                 origin: "Ultimate Custom Night/FNAF World",
