@@ -1069,7 +1069,7 @@
                 rarity: "☆☆",
                 type: "Customization",
                 image: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f92d55ca-8441-433e-b818-eeb152a8b8ea/dkwbmpr-0c1608c7-a12c-4b94-8887-74d5ae0dd4c4.png/v1/fit/w_828,h_1086/secret_code__mangled_inputs_by_siresquawks_dkwbmpr-414w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTE4MCIsInBhdGgiOiIvZi9mOTJkNTVjYS04NDQxLTQzM2UtYjgxOC1lZWIxNTJhOGI4ZWEvZGt3Ym1wci0wYzE2MDhjNy1hMTJjLTRiOTQtODg4Ny03NGQ1YWUwZGQ0YzQucG5nIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.j12j9rMha5_MC60iy_Rpq-RrpKmfV_CRDJLq5MqNzf8",
-                power: "G10",
+                power: "10",
                 Map: "Off Map",
                 effect: " PERSISTENt. When a player plays a [Child Spirit], they add a counter to this card and draws a card. When this card has 4 counters on it- kill it.",
             }, {
@@ -1093,7 +1093,7 @@
                 image: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f92d55ca-8441-433e-b818-eeb152a8b8ea/dkx2kc3-7e87f6e2-3f47-48f8-9d1b-adc803592929.png/v1/fit/w_828,h_1086/secret_card_395248_by_siresquawks_dkx2kc3-414w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTE4MCIsInBhdGgiOiIvZi9mOTJkNTVjYS04NDQxLTQzM2UtYjgxOC1lZWIxNTJhOGI4ZWEvZGt4MmtjMy03ZTg3ZjZlMi0zZjQ3LTQ4ZjgtOWQxYi1hZGM4MDM1OTI5MjkucG5nIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.hANd20Vog1PkKSG4NZolhvBVO7HWmnQvROvYnD_2dXQ",
                 power: "G10",
                 Map: "Off Map",
-                effect: "<br>Kill a [Springlock] you control to play a [Spirit] from either player's salvvage or your hand for its cost minus the coust of the card you killed. If you played an opponent's card with this effect- Gain power equal to the played card's cost -10%.",
+                effect: "<br>Kill a [Springlock] you control to play a [Spirit] from either player's salvvage or your hand for its cost minus the cost of the card you killed. If you played an opponent's card with this effect- Gain power equal to the played card's cost -10%.",
             }, {
                 name: "Secret Code: RWQFSFASXC Toy",
                 origin: "FNAF 3",
@@ -4154,7 +4154,7 @@
                 rarity: "",
                 type: "Customization",
                 image: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f92d55ca-8441-433e-b818-eeb152a8b8ea/dhtl6uj-3660d6fe-f9d6-4c4e-8e2c-5fa45efa3091.png/v1/fit/w_828,h_1160/tour_van_by_siresquawks_dhtl6uj-414w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDIwMCIsInBhdGgiOiIvZi9mOTJkNTVjYS04NDQxLTQzM2UtYjgxOC1lZWIxNTJhOGI4ZWEvZGh0bDZ1ai0zNjYwZDZmZS1mOWQ2LTRjNGUtOGUyYy01ZmE0NWVmYTMwOTEucG5nIiwid2lkdGgiOiI8PTMwMDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.b1xv-v6OLkJfoI_Tv_y7_Th941kvREPJh-UpJ_IcvVM",
-                power: "20",
+                power: "30",
                 Map: "Off Map",
                 effect: "<br>Move a \"Light\" or \"Virus\" counter from each unique card you control that has one and it to this card- then place a counter from this card to each card in play. You cannot put multiple counters on the same card with this effect.",
             }, {
@@ -4440,7 +4440,7 @@
                 type: "Illusion",
                 image: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f92d55ca-8441-433e-b818-eeb152a8b8ea/dmclwij-5afd6c36-9df9-49e6-87ca-c25c0fc23a76.png/v1/fit/w_828,h_1086/phantom_mangle__llc__by_siresquawks_dmclwij-414w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTE4MCIsInBhdGgiOiIvZi9mOTJkNTVjYS04NDQxLTQzM2UtYjgxOC1lZWIxNTJhOGI4ZWEvZG1jbHdpai01YWZkNmMzNi05ZGY5LTQ5ZTYtODdjYS1jMjVjMGZjMjNhNzYucG5nIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.oLrI3qvvnFUAWt4FVOAvzBkO_29gv237KrPxnXbywYo",
                 Jp: "0",
-                power: "G10",
+                power: "10",
                 Map: "Right_Hall/OfficeLR",
                 effect: "WHEN KILLED: Discard the Top card of your deck to play a [Customization] from your salvage for its cost. If the discarded card whas a [Amalgam], \"Phantom\", \"LLC\", or \"Trap\"- add it to your hand.",
             }, {
@@ -4690,7 +4690,7 @@
                 rarity: "☆",
                 type: "Food/Customization",
                 image: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f92d55ca-8441-433e-b818-eeb152a8b8ea/dm7h7e4-73930fee-da49-400d-92a4-5f746f39dedf.png/v1/fit/w_828,h_1086/cupcake_candy_bucket_by_siresquawks_dm7h7e4-414w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTE4MCIsInBhdGgiOiIvZi9mOTJkNTVjYS04NDQxLTQzM2UtYjgxOC1lZWIxNTJhOGI4ZWEvZG03aDdlNC03MzkzMGZlZS1kYTQ5LTQwMGQtOTJhNC01Zjc0NmYzOWRlZGYucG5nIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.tfOec_VL9Ht3IT2CWe8qAgfNxuQahnAZN_uQNkYppxY",
-                power: "20",
+                power: "10",
                 Map: "Off Map",
                 effect: " PERSISTENt. You may deactivate this card when playing a \"Jack-o\" card to add a \"Fire\" counter to it when it's played & to Gain 10%.",
             }, {
