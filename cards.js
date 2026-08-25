@@ -301,7 +301,7 @@
                 rarity: "☆☆",
                 type: "Customization",
                 image: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f92d55ca-8441-433e-b818-eeb152a8b8ea/dlfch53-c968dc02-9172-4929-b9aa-81254e68a120.png/v1/fit/w_750,h_984/power_outage_by_siresquawks_dlfch53-375w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTE4MCIsInBhdGgiOiIvZi9mOTJkNTVjYS04NDQxLTQzM2UtYjgxOC1lZWIxNTJhOGI4ZWEvZGxmY2g1My1jOTY4ZGMwMi05MTcyLTQ5MjktYjlhYS04MTI1NGU2OGExMjAucG5nIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19._922oUp7SjkFZxgIIR2ZJ4-rEvzHU6GYzGl8mDLznkA",
-                power: "0",
+                power: "W0",
                 Map: "Off Map",
                 effect: "<br>Set the power to exactly 0%.<br>Until the end of the turn a \"Freddy\" card of your choice becomes uNSTOPPABLe, but no other cards in play may attack or use effects.",
             }, {
@@ -334,7 +334,7 @@
                 rarity: "☆",
                 type: "Customization",
                 image: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f92d55ca-8441-433e-b818-eeb152a8b8ea/dktc4gt-8bfc20ae-8ec3-4c77-98ec-8166e11abd21.png/v1/fit/w_750,h_984/you_re_fired__by_siresquawks_dktc4gt-375w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTE4MCIsInBhdGgiOiIvZi9mOTJkNTVjYS04NDQxLTQzM2UtYjgxOC1lZWIxNTJhOGI4ZWEvZGt0YzRndC04YmZjMjBhZS04ZWMzLTRjNzctOThlYy04MTY2ZTExYWJkMjEucG5nIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.VEuOhJfem7gRf5WKI6ltLum1-VQekDgaJwYraSWrOSk",
-                power: "0",
+                power: "W0",
                 Map: "Off Map",
                 effect: "<br>Kill an [Adult Human] you control- Gain 20% power.",
             }, {
@@ -503,7 +503,7 @@
                 type: "Springlock/Spirit",
                 image: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f92d55ca-8441-433e-b818-eeb152a8b8ea/dkvgj7f-53ab047e-953f-4017-b999-5c6704989eb5.png/v1/fit/w_750,h_984/the_old_yellow_one_by_siresquawks_dkvgj7f-375w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTE4MCIsInBhdGgiOiIvZi9mOTJkNTVjYS04NDQxLTQzM2UtYjgxOC1lZWIxNTJhOGI4ZWEvZGt2Z2o3Zi01M2FiMDQ3ZS05NTNmLTQwMTctYjk5OS01YzY3MDQ5ODllYjUucG5nIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.NgYS2CWpJmoccUwPbk0iMoeaef22W3hLexpRbhIpS_Q",
                 Jp: "6",
-                power: "0",
+                power: "W0",
                 Map: "Left_Office",
                 effect: "<br>When this card kills a card- reactivate it then draw 1 card. You can only play this card at the start of your opponent's turn if they start their turn with 100% power. After your opponent preforms any 5 actions (Playing a card, deactivating a card, using a {Per Turn} effect)- you must return this card to your hand. If this card leaves play during your opponent's turn- pay 30% power.",
             }, {
@@ -555,7 +555,7 @@
                 type: "???",
                 image: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f92d55ca-8441-433e-b818-eeb152a8b8ea/dksf1nd-6325e7a6-3fbd-4a4e-b4c4-fa144df7e19d.png/v1/fit/w_750,h_984/paper_plate_pals_v3_by_siresquawks_dksf1nd-375w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTE4MCIsInBhdGgiOiIvZi9mOTJkNTVjYS04NDQxLTQzM2UtYjgxOC1lZWIxNTJhOGI4ZWEvZGtzZjFuZC02MzI1ZTdhNi0zZmJkLTRhNGUtYjRjNC1mYTE0NGRmN2UxOWQucG5nIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.et-T2wK-LlH4mTtADmSd0kJhXcTxxEgRrLxhwi3Z6Lg",
                 Jp: "0",
-                power: "0",
+                power: "W0",
                 Map: "Omni",
                 effect: "<br>This card can't gain JP, kill a card by fighting, or attack. WHEN KILLED: Both players draw 1 then discard 1.",
             }, {
@@ -670,7 +670,7 @@
                 rarity: "☆",
                 type: "Customization",
                 image: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f92d55ca-8441-433e-b818-eeb152a8b8ea/dlej1r5-ac14c009-1c80-47e8-bfe8-4d11c5df20ae.png/v1/fit/w_828,h_1086/something_borrowed____something_new____by_siresquawks_dlej1r5-414w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTE4MCIsInBhdGgiOiIvZi9mOTJkNTVjYS04NDQxLTQzM2UtYjgxOC1lZWIxNTJhOGI4ZWEvZGxlajFyNS1hYzE0YzAwOS0xYzgwLTQ3ZTgtYmZlOC00ZDExYzVkZjIwYWUucG5nIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.yxSvPLIofstxiDggK1JHNlifKhPHzXO6XONYRnGME4U",
-                power: "0",
+                power: "W0",
                 map: "Off Map",
                 effect: "<br>Discard a \"Withered\" Card form your hand to play a \"Toy\" card from your deck for its play cost -30%. If that card has the same [Design] as the discarded card- Gain 10% power too. Shuffle your deck after this effect is resolved."
             }, {
@@ -737,7 +737,7 @@
                 type: "Food/Customization",
                 image: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f92d55ca-8441-433e-b818-eeb152a8b8ea/dlfch67-1b4d4539-4a1d-420b-81f9-fa9af8691fa8.png/v1/fit/w_828,h_1086/flat_soda_by_siresquawks_dlfch67-414w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTE4MCIsInBhdGgiOiIvZi9mOTJkNTVjYS04NDQxLTQzM2UtYjgxOC1lZWIxNTJhOGI4ZWEvZGxmY2g2Ny0xYjRkNDUzOS00YTFkLTQyMGItODFmOS1mYTlhZjg2OTFmYTgucG5nIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.8y7Zo5mZO1wKuHO3RUyraZ69Gt6yXscRZi96HjCj7L0",
                 Jp: "0",
-                power: "0",
+                power: "W0",
                 Map: "Right_Office",
                 effect: "<br>Heal 1. Place this card in your right office as a 0 JP \{\ReTiRed\} card that can't kill by fighting",
             }, {
@@ -759,7 +759,7 @@
                 rarity: "☆",
                 type: "Customization",
                 image: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f92d55ca-8441-433e-b818-eeb152a8b8ea/dkvgj79-e2ae9c8c-ebcc-4f93-9710-39d5486ba7cf.png/v1/fit/w_828,h_1086/foxy_go_go_go_by_siresquawks_dkvgj79-414w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTE4MCIsInBhdGgiOiIvZi9mOTJkNTVjYS04NDQxLTQzM2UtYjgxOC1lZWIxNTJhOGI4ZWEvZGt2Z2o3OS1lMmFlOWM4Yy1lYmNjLTRmOTMtOTcxMC0zOWQ1NDg2YmE3Y2YucG5nIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.bkXuL-ws2-x0ee-M9BuyKxPTTfQa-xjn0W-6bxU2j4M",
-                power: "0",
+                power: "W0",
                 Map: "Off Map",
                 effect: "<br>Choose a \"Foxy\" you control. Pay 10% for each point of JP that card currently has, then add a +1 JP counter to that card.",
             }, {
@@ -981,7 +981,7 @@
                 rarity: "☆",
                 type: "Customization",
                 image: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f92d55ca-8441-433e-b818-eeb152a8b8ea/dlejdf9-610ac2a1-1340-403a-8d66-4bf79f9dd07d.png/v1/fit/w_828,h_1086/what_can_we_use__by_siresquawks_dlejdf9-414w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTE4MCIsInBhdGgiOiIvZi9mOTJkNTVjYS04NDQxLTQzM2UtYjgxOC1lZWIxNTJhOGI4ZWEvZGxlamRmOS02MTBhYzJhMS0xMzQwLTQwM2EtOGQ2Ni00YmY3OWY5ZGQwN2QucG5nIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.41l6hl8UrfQ8XP7J7pbNPUEKJRPZGYthwESxDYnYua0",
-                power: "0",
+                power: "W0",
                 Map: "Off Map",
                 effect: "<br>AUGMENT any card you control. If it's killed on the turn this card is played- Gain 20%- otherwise Gain 10% power when it's killed.",
             }, {
@@ -1003,7 +1003,7 @@
                 rarity: "☆",
                 type: "Food/Customization",
                 image: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f92d55ca-8441-433e-b818-eeb152a8b8ea/dlfch6l-a50cf8a8-f852-4930-87bc-5f4ec3f84129.png/v1/fit/w_828,h_1086/half_eaten_hotdog_by_siresquawks_dlfch6l-414w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTE4MCIsInBhdGgiOiIvZi9mOTJkNTVjYS04NDQxLTQzM2UtYjgxOC1lZWIxNTJhOGI4ZWEvZGxmY2g2bC1hNTBjZjhhOC1mODUyLTQ5MzAtODdiYy01ZjRlYzNmODQxMjkucG5nIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.VR1jAhaicgfjiQ9bmEXf8FB9CCBDitoyuzACrv4U_TM",
-                power: "0",
+                power: "W0",
                 Map: "Off Map",
                 effect: "<br>Flip a coin: Heads deal 1 damage, Tails Heal 2",
             }, {
@@ -1025,7 +1025,7 @@
                 rarity: "☆",
                 type: "Customization",
                 image: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f92d55ca-8441-433e-b818-eeb152a8b8ea/dktc4kw-9a4d87e6-1010-4c4d-a625-091e1af1948e.png/v1/fit/w_828,h_1086/i_always_come_back_v3_by_siresquawks_dktc4kw-414w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTE4MCIsInBhdGgiOiIvZi9mOTJkNTVjYS04NDQxLTQzM2UtYjgxOC1lZWIxNTJhOGI4ZWEvZGt0YzRrdy05YTRkODdlNi0xMDEwLTRjNGQtYTYyNS0wOTFlMWFmMTk0OGUucG5nIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.TVv0sIXLNLJKyO8tiAFB0UbFlLtaQwhOL0KbZgUezp4",
-                power: "0",
+                power: "W0",
                 Map: "Off Map",
                 effect: "<br>Play a \"William Afton\" or \"Trap\" card from your salvage for its cost -10%.",
             }, {
@@ -1047,7 +1047,7 @@
                 rarity: "☆☆",
                 type: "Customization",
                 image: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f92d55ca-8441-433e-b818-eeb152a8b8ea/dlfch6z-daa09638-1beb-4fb9-a8c6-901b69961034.png/v1/fit/w_828,h_1086/reboot_all_by_siresquawks_dlfch6z-414w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTE4MCIsInBhdGgiOiIvZi9mOTJkNTVjYS04NDQxLTQzM2UtYjgxOC1lZWIxNTJhOGI4ZWEvZGxmY2g2ei1kYWEwOTYzOC0xYmViLTRmYjktYThjNi05MDFiNjk5NjEwMzQucG5nIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.jgDRMLxYmHIWDnQLeUzkkGVvFpIjC3k13YIi3rblIyI",
-                power: "0",
+                power: "W0",
                 Map: "Off Map",
                 effect: "<br>Return every card in your hand to the deck, shuffle your deck, then draw one card for every card you returned.",
             }, {
@@ -1058,7 +1058,7 @@
                 rarity: "☆",
                 type: "Customization",
                 image: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f92d55ca-8441-433e-b818-eeb152a8b8ea/dkwbmpm-2ae86e84-8228-4812-8921-c7f34e7a0b14.png/v1/fit/w_828,h_1086/secret_code__bbdblclick_by_siresquawks_dkwbmpm-414w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTE4MCIsInBhdGgiOiIvZi9mOTJkNTVjYS04NDQxLTQzM2UtYjgxOC1lZWIxNTJhOGI4ZWEvZGt3Ym1wbS0yYWU4NmU4NC04MjI4LTQ4MTItODkyMS1jN2YzNGU3YTBiMTQucG5nIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.xSTdhD2E2FMKTl-sf2keDOlByVaecIvLSo_qOygdE9s",
-                power: "0",
+                power: "W0",
                 Map: "Off Map",
                 effect: "<br>Play a [Child Spirit] from your hand with a cost of 30% or less for no cost.",
             }, {
@@ -1113,7 +1113,7 @@
                 rarity: "☆☆☆☆",
                 type: "Customization",
                 image: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f92d55ca-8441-433e-b818-eeb152a8b8ea/dkvgj7j-a691a9eb-dcd9-40bc-953d-c642982b72c2.png/v1/fit/w_828,h_1086/happiest_day_by_siresquawks_dkvgj7j-414w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTE4MCIsInBhdGgiOiIvZi9mOTJkNTVjYS04NDQxLTQzM2UtYjgxOC1lZWIxNTJhOGI4ZWEvZGt2Z2o3ai1hNjkxYTllYi1kY2Q5LTQwYmMtOTUzZC1jNjQyOTgyYjcyYzIucG5nIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.N0A265gmTsQ8cYvLlOR6Pij--6G31deRuJOU-cn0Dw4",
-                power: "0",
+                power: "W0",
                 Map: "Off Map",
                 effect: "<br>Send [Spirits] from your hand or that you control to the salvage. For each card sent- you may either draw 1 card, Gain 20%, or Heal 2 in any combination you wish.",
             }, {
@@ -1423,7 +1423,7 @@
                 rarity: "☆☆",
                 type: "Customization",
                 image: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f92d55ca-8441-433e-b818-eeb152a8b8ea/dktc4l7-93981cce-e506-4523-a556-67006e2eb85f.png/v1/fit/w_750,h_984/what_have_you_brought_home_v3_by_siresquawks_dktc4l7-375w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTE4MCIsInBhdGgiOiIvZi9mOTJkNTVjYS04NDQxLTQzM2UtYjgxOC1lZWIxNTJhOGI4ZWEvZGt0YzRsNy05Mzk4MWNjZS1lNTA2LTQ1MjMtYTU1Ni02NzAwNmUyZWI4NWYucG5nIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.gxKwetvLA1TOfTGYp1cmksdgxN_UJtcGHWlPC_jbc84",
-                power: "0",
+                power: "W0",
                 Map: "Off Map",
                 effect: "<br>Play a \"Nightmare\" card from your hand- Lower its play cost by 10% for every point of JP it has.",
             }, {
@@ -2268,7 +2268,7 @@
                 type: "Puppet",
                 image: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f92d55ca-8441-433e-b818-eeb152a8b8ea/dkrlaqe-f21a50ec-79ae-42cc-89aa-b8bbaa8ef0f6.png/v1/fit/w_750,h_984/bonnet_by_siresquawks_dkrlaqe-375w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTE4MCIsInBhdGgiOiIvZi9mOTJkNTVjYS04NDQxLTQzM2UtYjgxOC1lZWIxNTJhOGI4ZWEvZGtybGFxZS1mMjFhNTBlYy03OWFlLTQyY2MtODlhYS1iOGJiYWE4ZWYwZjYucG5nIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19._9D6yw8SX7CvRNSIPz7BAJt6Nz1S1lJ-TeqpKKVdRRA",
                 Jp: "0",
-                power: "0",
+                power: "W0",
                 Map: "OfficeLR",
                 effect: "<br>This card is treated as a \"Funtime\" while in play. This card has +1 JP while you have \"Bon-Bon\" or \"Funtime Freddy\" in play.",
             }, {
@@ -2377,7 +2377,7 @@
                 rarity: "☆☆",
                 type: "Customization",
                 image: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f92d55ca-8441-433e-b818-eeb152a8b8ea/dlhmlh1-e944d6c2-0b3d-428a-bd02-fa6930a7e47b.png/v1/fit/w_828,h_1086/there_s_a_little_of_me_in_every_body____by_siresquawks_dlhmlh1-414w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTE4MCIsInBhdGgiOiIvZi9mOTJkNTVjYS04NDQxLTQzM2UtYjgxOC1lZWIxNTJhOGI4ZWEvZGxobWxoMS1lOTQ0ZDZjMi0wYjNkLTQyOGEtYmQwMi1mYTY5MzBhN2U0N2IucG5nIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.U72flk-Sl7QOjN3DM2VwaXA7YvajSJ0-_K8TjRrtJvE",
-                power: "0",
+                power: "W0",
                 Map: "Off Map",
                 effect: "<br><i>REQUIREMENT: Control an \"Ennard\" card.</i><br>Choose up to 5 unique \"Funtime\" cards in your salvage- add them to your hand to gain 10% for every card you added.",
             }, {
@@ -2399,7 +2399,7 @@
                 rarity: "☆☆☆",
                 type: "Customization",
                 image: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f92d55ca-8441-433e-b818-eeb152a8b8ea/dktc4jm-91a2408a-fd7f-4e8e-8f8e-4a5e0b545f81.png/v1/fit/w_828,h_1086/the_scooper_v3_by_siresquawks_dktc4jm-414w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTE4MCIsInBhdGgiOiIvZi9mOTJkNTVjYS04NDQxLTQzM2UtYjgxOC1lZWIxNTJhOGI4ZWEvZGt0YzRqbS05MWEyNDA4YS1mZDdmLTRlOGUtOGY4ZS00YTVlMGI1NDVmODEucG5nIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.eFR3zqOCVCrHPJzt0YgcDXOr4Xh3qV96xWzv2xX9_UA",
-                power: "0",
+                power: "W0",
                 Map: "Off Map",
                 effect: "<br>Kill \"Funtime\" cards you played (not control) and Gain 20% power for each card killed. You may then play an [Adult] card from your hand or salvage with an equal cost or less than power you gain for no cost",
             }, {
@@ -2818,7 +2818,7 @@
                 rarity: "☆",
                 type: "Customization",
                 image: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f92d55ca-8441-433e-b818-eeb152a8b8ea/dlfch1o-91dd1f35-6a47-4137-9572-d21008338be7.png/v1/fit/w_828,h_1086/sponsored_advertisement_by_siresquawks_dlfch1o-414w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTE4MCIsInBhdGgiOiIvZi9mOTJkNTVjYS04NDQxLTQzM2UtYjgxOC1lZWIxNTJhOGI4ZWEvZGxmY2gxby05MWRkMWYzNS02YTQ3LTQxMzctOTU3Mi1kMjEwMDgzMzhiZTcucG5nIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.WACghV5rtljIvwkdRW61EbE0WIWyfvh-mfWyz4doDEo",
-                power: "0",
+                power: "W0",
                 Map: "Off Map",
                 effect: "<br>Deactivate cards on your map. For each deactivated, apply the following effects:<br>*1 DEACTIVATED: Draw 1 card.<br>*2 DEACTIVATED: Draw 1 card and Heal 1.<br>*3 DEACTIVATED Draw 1 + Gain 20%.<br>*4 DEACTIVATED; Draw 1 + Deal 2 Damage.",
             }, {
@@ -2884,7 +2884,7 @@
                 rarity: "☆☆☆☆",
                 type: "Customization",
                 image: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f92d55ca-8441-433e-b818-eeb152a8b8ea/dktc4ja-a3a4a1df-500d-4809-8912-d82d304f5c7c.png/v1/fit/w_828,h_1086/pickles_v3_by_siresquawks_dktc4ja-414w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTE4MCIsInBhdGgiOiIvZi9mOTJkNTVjYS04NDQxLTQzM2UtYjgxOC1lZWIxNTJhOGI4ZWEvZGt0YzRqYS1hM2E0YTFkZi01MDBkLTQ4MDktODkxMi1kODJkMzA0ZjVjN2MucG5nIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.Iqadw6fApRuRkrSH22bGFTxF0viXq7DcG457bzfrwZU",
-                power: "0",
+                power: "W0",
                 map: "Off Map",
                 effect: "<br>If there are 60 cards in both player's salvages combined- you WIN the GAME.",
             }, {
@@ -2906,7 +2906,7 @@
                 rarity: "☆☆☆",
                 type: "Customization",
                 image: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f92d55ca-8441-433e-b818-eeb152a8b8ea/dlfch5e-fa33b9ef-9a19-4c1c-aa3e-27bc13ab5663.png/v1/fit/w_828,h_1086/the_survival_logbook_by_siresquawks_dlfch5e-414w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTE4MCIsInBhdGgiOiIvZi9mOTJkNTVjYS04NDQxLTQzM2UtYjgxOC1lZWIxNTJhOGI4ZWEvZGxmY2g1ZS1mYTMzYjllZi05YTE5LTRjMWMtYWEzZS0yN2JjMTNhYjU2NjMucG5nIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.4qzEBPh-PXMO5PvquRPTFg_TCNDqPf9i8y9_I3_qi6w",
-                power: "0",
+                power: "W0",
                 Map: "Off Map",
                 effect: "<br><i>REQUIREMENT: A \"Michael\" or \"Mike\" card in play and a [Spirit] with a play cost of 40% or more.</i><br>Play a [Child Spirit] from your hand with a cost of 40% or less whose name isn't already in play for no cost.<br>*Or*<br>Play any [Spirit] from your salvage for its cost -10%.",
             }, {
@@ -3000,7 +3000,7 @@
                 rarity: "",
                 type: "???",
                 image: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f92d55ca-8441-433e-b818-eeb152a8b8ea/dh9h0m0-281f7acc-8dea-4d91-ac4f-d94695ae22dd.png/v1/fit/w_828,h_1160/fnaf_tcg_card_back__credit_to_jjrobotnik__by_siresquawks_dh9h0m0-414w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTc5MyIsInBhdGgiOiIvZi9mOTJkNTVjYS04NDQxLTQzM2UtYjgxOC1lZWIxNTJhOGI4ZWEvZGg5aDBtMC0yODFmN2FjYy04ZGVhLTRkOTEtYWM0Zi1kOTQ2OTVhZTIyZGQucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.hm94fQYYYdwSMIfNbtB9P0hyXtRChtfKpPVbNDd7knA",
-                power: "0",
+                power: "W0",
                 Map: "Off Map",
                 effect: " HOAX. This card doesn't exist, it never has...",
             }, {
@@ -3128,7 +3128,7 @@
                 rarity: "☆☆☆☆",
                 type: "Location/Customization",
                 image: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f92d55ca-8441-433e-b818-eeb152a8b8ea/dl6xrpi-ff617aac-a83e-4cc9-a916-675bea10f77e.png/v1/fit/w_828,h_1086/fredbear_family_diner_by_siresquawks_dl6xrpi-414w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTE4MCIsInBhdGgiOiIvZi9mOTJkNTVjYS04NDQxLTQzM2UtYjgxOC1lZWIxNTJhOGI4ZWEvZGw2eHJwaS1mZjYxN2FhYy1hODNlLTRjYzktYTkxNi02NzViZWExMGY3N2UucG5nIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.K7SHZfem7E7VxQNr86t57cwRF3ANFU8wN0yOBUYJJ6E",
-                power: "0",
+                power: "W0",
                 Map: "Off Map",
                 effect: "<br><i>Persistent (keep this Customization in play).</i><br>\"Fredbear\" or \"Springbonnie\" cards cost 10% less to play.",
             }, {
@@ -3205,7 +3205,7 @@
                 design: "Child/Green",
                 type: "Spirit/Human",
                 image: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f92d55ca-8441-433e-b818-eeb152a8b8ea/dmlk4t4-e23087ea-9033-4a70-aed5-1729437dd0b6.png/v1/fit/w_828,h_1086/green_mask_kid_by_siresquawks_dmlk4t4-414w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTE4MCIsInBhdGgiOiIvZi9mOTJkNTVjYS04NDQxLTQzM2UtYjgxOC1lZWIxNTJhOGI4ZWEvZG1sazR0NC1lMjMwODdlYS05MDMzLTRhNzAtYWVkNS0xNzI5NDM3ZGQwYjYucG5nIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.2dNJdKYR8juIrdVCXVP8pYjp8CcK0vxCi6qFtvhHfRA",
-                power: "0",
+                power: "W0",
                 Jp: "0",
                 Map: "Off Map",
                 effect: " WHEn pLAYED: Reveal the top card of your deck, if its a \"Happiest Day\" or [Child Spirit] add it to your hand, play it for -10%, or if not- ARCHIVE it.",
@@ -4657,7 +4657,7 @@
                 rarity: "☆",
                 type: "Food/Customization",
                 image: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f92d55ca-8441-433e-b818-eeb152a8b8ea/dmebsmb-c4f136e5-9820-4a2b-b7a8-4d405d755ff4.png/v1/fit/w_828,h_1086/disappointment_chips_by_siresquawks_dmebsmb-414w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTE4MCIsInBhdGgiOiIvZi9mOTJkNTVjYS04NDQxLTQzM2UtYjgxOC1lZWIxNTJhOGI4ZWEvZG1lYnNtYi1jNGYxMzZlNS05ODIwLTRhMmItYjdhOC00ZDQwNWQ3NTVmZjQucG5nIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.fO3YvMzuP9bt9WzAQWVbiDplCK6-yBPd714U_91-hH8",
-                power: "0",
+                power: "W0",
                 Map: "Off Map",
                 effect: "<br>Heal 1, Draw 1, then Discard 1 card from your Hand.",
             }, {
@@ -5175,7 +5175,7 @@
                 rarity: "",
                 type: "Customization",
                 image: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f92d55ca-8441-433e-b818-eeb152a8b8ea/dhrg8xx-d58ccca8-efed-490b-ad4a-281ccd800bf5.png/v1/fit/w_828,h_1160/nightmare_plush_by_siresquawks_dhrg8xx-414w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDIwMCIsInBhdGgiOiIvZi9mOTJkNTVjYS04NDQxLTQzM2UtYjgxOC1lZWIxNTJhOGI4ZWEvZGhyZzh4eC1kNThjY2NhOC1lZmVkLTQ5MGItYWQ0YS0yODFjY2Q4MDBiZjUucG5nIiwid2lkdGgiOiI8PTMwMDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.NUDNA9WoBtaRtoSj6XtUjGV2ZCZBon7iLBxbG8ZPIbg",
-                power: "0",
+                power: "W0",
                 Map: "Off Map",
                 effect: "<br><i>REQUIREMENT: You must be at 40% exactly.</i><br><i>Persistent (Keep this card in play).</i> ONCE PER TURN: When you play a card with \"Nightmare\" in it name you may discard 1 card from the top of your deck to have it become aGGRESSIVe.",
             }, {
@@ -5340,7 +5340,7 @@
                 rarity: "",
                 type: "Customization",
                 image: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f92d55ca-8441-433e-b818-eeb152a8b8ea/dhrg8uj-d425d81b-afbf-41ce-8cb1-80e4744592ea.png/v1/fit/w_828,h_1160/screwdriver_by_siresquawks_dhrg8uj-414w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDIwMCIsInBhdGgiOiIvZi9mOTJkNTVjYS04NDQxLTQzM2UtYjgxOC1lZWIxNTJhOGI4ZWEvZGhyZzh1ai1kNDI1ZDgxYi1hZmJmLTQxY2UtOGNiMS04MGU0NzQ0NTkyZWEucG5nIiwid2lkdGgiOiI8PTMwMDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.yzzHdJXjjk-80ZkwPxa77IXWJcFAB9euyN0XN3nILTg",
-                power: "0",
+                power: "W0",
                 Map: "Off Map",
                 effect: "<br>Return a card in your vent to your hand.",
             }, {
@@ -5395,7 +5395,7 @@
                 rarity: "",
                 type: "Customization",
                 image: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f92d55ca-8441-433e-b818-eeb152a8b8ea/dhrgiuo-33c4aec1-f7e8-4cfd-ac86-e3fdc5b50da1.png/v1/fit/w_828,h_1160/3_star_ending_by_siresquawks_dhrgiuo-414w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDIwMCIsInBhdGgiOiIvZi9mOTJkNTVjYS04NDQxLTQzM2UtYjgxOC1lZWIxNTJhOGI4ZWEvZGhyZ2l1by0zM2M0YWVjMS1mN2U4LTRjZmQtYWM4Ni1lM2ZkYzViNTBkYTEucG5nIiwid2lkdGgiOiI8PTMwMDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.OYwqLSJkHUvMrS44SoCx8R5jw7q47IUhHbDJ4cjxrAE",
-                power: "0",
+                power: "W0",
                 Map: "Off Map",
                 effect: "<br>If you play this card while there are 5 or more non-token cards on the map with 2 or more \"Light\" counters on them- YOU WIN",
             }, {
@@ -5943,7 +5943,7 @@
                 rarity: "",
                 type: "Customization",
                 image: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f92d55ca-8441-433e-b818-eeb152a8b8ea/dhqrvdp-c5998dff-9fd9-4534-ad38-a207c55d8d98.png/v1/fit/w_828,h_1160/lost_mask_doll_freddy_by_siresquawks_dhqrvdp-414w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDIwMCIsInBhdGgiOiIvZi9mOTJkNTVjYS04NDQxLTQzM2UtYjgxOC1lZWIxNTJhOGI4ZWEvZGhxcnZkcC1jNTk5OGRmZi05ZmQ5LTQ1MzQtYWQzOC1hMjA3YzU1ZDhkOTgucG5nIiwid2lkdGgiOiI8PTMwMDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.uWUiU60Y0KqqYjHd6_TnulpJUYOhRJoSpXMhi77vWeA",
-                power: "0",
+                power: "W0",
                 Map: "Off Map",
                 effect: "<br><i>REQUIREMENT: You must have over 40% power.</i> pERSISTENt. ONCE PER TURN: You may pay 10% to draw 1.",
             }, {
@@ -5954,7 +5954,7 @@
                 rarity: "",
                 type: "Customization",
                 image: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f92d55ca-8441-433e-b818-eeb152a8b8ea/dhqrvfb-fbc453b8-588d-4465-9dbc-67c9129ee391.png/v1/fit/w_828,h_1160/lost_mask_doll_bonnie_by_siresquawks_dhqrvfb-414w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDIwMCIsInBhdGgiOiIvZi9mOTJkNTVjYS04NDQxLTQzM2UtYjgxOC1lZWIxNTJhOGI4ZWEvZGhxcnZmYi1mYmM0NTNiOC01ODhkLTQ0NjUtOWRiYy02N2M5MTI5ZWUzOTEucG5nIiwid2lkdGgiOiI8PTMwMDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.JcMaPKZaRS8f3ndMf1vmcZ8-HU_l-rRYcqnWpMmgO80",
-                power: "0",
+                power: "W0",
                 Map: "Off Map",
                 effect: "<br><i>REQUIREMENT: A card you control has sent another card to the salvage this turn.</i> PERSISTENt. ONCE PER TURN: Remove a -1 JP counter from a card in play to deal 1 damage.",
             }, {
@@ -5965,7 +5965,7 @@
                 rarity: "",
                 type: "Customization",
                 image: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f92d55ca-8441-433e-b818-eeb152a8b8ea/dhqrven-2bb5257a-1279-481e-8ce7-8f9aa34abca8.png/v1/fit/w_828,h_1160/lost_mask_doll_chica_by_siresquawks_dhqrven-414w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDIwMCIsInBhdGgiOiIvZi9mOTJkNTVjYS04NDQxLTQzM2UtYjgxOC1lZWIxNTJhOGI4ZWEvZGhxcnZlbi0yYmI1MjU3YS0xMjc5LTQ4MWUtOGNlNy04ZjlhYTM0YWJjYTgucG5nIiwid2lkdGgiOiI8PTMwMDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.F538cyap41mIhY9j9tu7qXwdH5aOdFV9HQtgu-QSKBg",
-                power: "0",
+                power: "W0",
                 Map: "Off Map",
                 effect: " PERSISTENT. <i>REQUIREMENT: You must be at 3 damage or more on either side.</i> ONCE PER TURN: You may take 1 damage to gain 20%.",
             }, {
@@ -5976,7 +5976,7 @@
                 rarity: "",
                 type: "Customization",
                 image: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f92d55ca-8441-433e-b818-eeb152a8b8ea/dhqrve3-c4b7a97a-5cb4-40d1-9ed2-00caa3046103.png/v1/fit/w_828,h_1160/lost_mask_doll_foxy_by_siresquawks_dhqrve3-414w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDIwMCIsInBhdGgiOiIvZi9mOTJkNTVjYS04NDQxLTQzM2UtYjgxOC1lZWIxNTJhOGI4ZWEvZGhxcnZlMy1jNGI3YTk3YS01Y2I0LTQwZDEtOWVkMi0wMGNhYTMwNDYxMDMucG5nIiwid2lkdGgiOiI8PTMwMDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.aeyiKOe8nhBGTXhG63nBvpnzHH_a30YSulvMDY_WnNo",
-                power: "0",
+                power: "W0",
                 Map: "Off Map",
                 effect: "<br><i>REQUIREMENT: You control a card with 4 or more +1 JP counters on it.</i> PERSISTENt. TWICE PER TURN: You may remove a +1 JP counter from a card in play to Heal 2.",
             }, {
@@ -5987,7 +5987,7 @@
                 rarity: "",
                 type: "Customization",
                 image: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f92d55ca-8441-433e-b818-eeb152a8b8ea/dhqrvdd-0b3789b5-3117-41be-9c03-26f05b6d7675.png/v1/fit/w_828,h_1160/lost_mask_doll_golden_freddy_freddy_by_siresquawks_dhqrvdd-414w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDIwMCIsInBhdGgiOiIvZi9mOTJkNTVjYS04NDQxLTQzM2UtYjgxOC1lZWIxNTJhOGI4ZWEvZGhxcnZkZC0wYjM3ODliNS0zMTE3LTQxYmUtOWMwMy0yNmYwNWI2ZDc2NzUucG5nIiwid2lkdGgiOiI8PTMwMDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.oGJXA8slIVPqqbF8F2tkKhjGNro1Ks4tvmSLED4fWo8",
-                power: "0",
+                power: "W0",
                 Map: "Off Map",
                 effect: "<br><i>REQUIREMENT: Reveal a 100% playcost card in your hand.</i> PERSISTENT. When you play a card with a playcost of 100%- gain 10% power.",
             }, {
@@ -5998,7 +5998,7 @@
                 rarity: "☆☆☆",
                 type: "Customization",
                 image: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f92d55ca-8441-433e-b818-eeb152a8b8ea/dlnpiaw-8858e068-bf74-4726-b1a2-c0803c0f2006.png/v1/fit/w_828,h_1086/lost_mask_doll_puppet_by_siresquawks_dlnpiaw-414w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTE4MCIsInBhdGgiOiIvZi9mOTJkNTVjYS04NDQxLTQzM2UtYjgxOC1lZWIxNTJhOGI4ZWEvZGxucGlhdy04ODU4ZTA2OC1iZjc0LTQ3MjYtYjFhMi1jMDgwM2MwZjIwMDYucG5nIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.7StyDJ7LWy2J0yOZotKG7SDnZjb_QqLWlYw9jgnFgSs",
-                power: "0",
+                power: "W0",
                 Map: "Off Map",
                 effect: "<br><i>REQUIREMENT: 3+ cards with \"Music Box\" counters in play.</i><br><i>Persistent (Keep this card in play).</i> TWICE PER TURN: When you add a \"Music Box\" counter to a card in play- you may move it to any other card.",
             }, {
@@ -6097,7 +6097,7 @@
                 rarity: "",
                 type: "Customization",
                 image: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f92d55ca-8441-433e-b818-eeb152a8b8ea/dhtblwb-b86553d6-3f69-4b29-a59c-9d2aa485b3af.png/v1/fit/w_828,h_1160/cupcake_prize_machine_by_siresquawks_dhtblwb-414w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDIwMCIsInBhdGgiOiIvZi9mOTJkNTVjYS04NDQxLTQzM2UtYjgxOC1lZWIxNTJhOGI4ZWEvZGh0Ymx3Yi1iODY1NTNkNi0zZjY5LTRiMjktYTU5Yy05ZDJhYTQ4NWIzYWYucG5nIiwid2lkdGgiOiI8PTMwMDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.waHLsxnIDL1T7pjDxsEsQeU_qmFL2owrPmnTKtlxh1Y",
-                power: "0",
+                power: "W0",
                 Map: "Off Map",
                 effect: "<br>From cards you control pick either a word in its name or its [Type]. Then reveal the top 2 cards of your deck. If one has the chosen aspect you may play it for -20% and ARCHIVE the others.",
             }, {
@@ -6665,7 +6665,7 @@
                 rarity: "",
                 type: "Customization",
                 image: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f92d55ca-8441-433e-b818-eeb152a8b8ea/dj2geex-b9d83e33-e4d2-4162-bcbd-07cf97526bab.png/v1/fit/w_828,h_1160/emergency_electrocute_by_siresquawks_dj2geex-414w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDIwMCIsInBhdGgiOiIvZi9mOTJkNTVjYS04NDQxLTQzM2UtYjgxOC1lZWIxNTJhOGI4ZWEvZGoyZ2VleC1iOWQ4M2UzMy1lNGQyLTQxNjItYmNiZC0wN2NmOTc1MjZiYWIucG5nIiwid2lkdGgiOiI8PTMwMDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.T_Em-GCCMuJRaa3ex6oUnicgOmCuPNApUaJ9zjfxfdM",
-                power: "0",
+                power: "W0",
                 Map: "Off Map",
                 effect: "<br>Deactivate both a [Human] you control & a [Animatronic] directly in front of it.",
             }, {
@@ -6677,7 +6677,7 @@
                 rarity: "☆☆",
                 type: "Customization",
                 image: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f92d55ca-8441-433e-b818-eeb152a8b8ea/dm3ffxx-caf1cbab-e68f-444e-87ff-a2e43565e491.png/v1/fit/w_828,h_1086/sound_illusion_disks_by_siresquawks_dm3ffxx-414w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTE4MCIsInBhdGgiOiIvZi9mOTJkNTVjYS04NDQxLTQzM2UtYjgxOC1lZWIxNTJhOGI4ZWEvZG0zZmZ4eC1jYWYxY2JhYi1lNjhmLTQ0NGUtODdmZi1hMmU0MzU2NWU0OTEucG5nIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.Ql_xZoJpIZxPbRFpBYoozos-jSavSlfZIGcqlGcQyeA",
-                power: "0",
+                power: "W0",
                 Map: "Off Map",
                 effect: "<br>AUGMENT a character in play, that card Gains [Illusion] typing as long as it is Augmented by this card.",
             }, {
@@ -6710,7 +6710,7 @@
                 rarity: "",
                 type: "Customization",
                 image: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f92d55ca-8441-433e-b818-eeb152a8b8ea/dj0x32z-25569a25-c830-4a6d-9400-c5b1efb88f94.png/v1/fit/w_828,h_1160/circus_baby_s_pizza_world_by_siresquawks_dj0x32z-414w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDIwMCIsInBhdGgiOiIvZi9mOTJkNTVjYS04NDQxLTQzM2UtYjgxOC1lZWIxNTJhOGI4ZWEvZGoweDMyei0yNTU2OWEyNS1jODMwLTRhNmQtOTQwMC1jNWIxZWZiODhmOTQucG5nIiwid2lkdGgiOiI8PTMwMDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.7pPWX1ObM8d2cNp0m0t5V9N8RoC0oSzOm8DECEO2MPI",
-                power: "0",
+                power: "W0",
                 Map: "Off Map",
                 effect: "<br>For the rest of the turn when you play a card with \"Funtime\" in its name gain 10% and discard the top card or your deck.",
             }, {
@@ -6787,7 +6787,7 @@
                 rarity: "",
                 type: "Customization",
                 image: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f92d55ca-8441-433e-b818-eeb152a8b8ea/dj0x2mg-39befd82-3966-454c-97d4-a36cbbbfe53c.png/v1/fit/w_828,h_1160/the_end_by_siresquawks_dj0x2mg-414w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDIwMCIsInBhdGgiOiIvZi9mOTJkNTVjYS04NDQxLTQzM2UtYjgxOC1lZWIxNTJhOGI4ZWEvZGoweDJtZy0zOWJlZmQ4Mi0zOTY2LTQ1NGMtOTdkNC1hMzZjYmJiZmU1M2MucG5nIiwid2lkdGgiOiI8PTMwMDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.vYcX3VvZK9XUr-X57eLJRPLl-G7owzy1og0IjKnNP8M",
-                power: "0",
+                power: "W0",
                 Map: "Off Map",
                 effect: "<br>If you have 5 cards with \"Charlie\" in their names in your salvage- you may either:<br>*Gain 20% power.<br>*Add 1 \"Music Box\" counters to a card in play.<br>*Draw 1 from your deck.<br>*Return a card from your salvage to your hand.",
             }, {
@@ -6826,7 +6826,7 @@
                 type: "Human",
                 image: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f92d55ca-8441-433e-b818-eeb152a8b8ea/dm3eya9-47f266d3-bb30-47e7-8f9c-22ab57a03554.png/v1/fit/w_828,h_1086/oswald_s_dad__frights__by_siresquawks_dm3eya9-414w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTE4MCIsInBhdGgiOiIvZi9mOTJkNTVjYS04NDQxLTQzM2UtYjgxOC1lZWIxNTJhOGI4ZWEvZG0zZXlhOS00N2YyNjZkMy1iYjMwLTQ3ZTctOGY5Yy0yMmFiNTdhMDM1NTQucG5nIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.bR_UFNyVew0z6gschQhhUZglOj_mJNLSatm15KcD6fo",
                 Jp: "0",
-                power: "0",
+                power: "W0",
                 Map: "Left_Hall/Right_Office",
                 effect: "<br>You may play another card in your hand with this card in its STACK, or add this Character to a card on your Map's STACK. If you did you may play another [Human] from your hand or deck. If you played the [Human] from your hand, or it was \"Oswald\",play it for no cost, if else- play it for its cost.",
             }, {
@@ -7203,7 +7203,7 @@
                 type: "Floorsign/???",
                 image: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f92d55ca-8441-433e-b818-eeb152a8b8ea/dm1tixw-e68bf5a5-e941-4d94-b869-a43b35f48ebf.png/v1/fit/w_828,h_1086/kids_at_play_sign_by_siresquawks_dm1tixw-414w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTE4MCIsInBhdGgiOiIvZi9mOTJkNTVjYS04NDQxLTQzM2UtYjgxOC1lZWIxNTJhOGI4ZWEvZG0xdGl4dy1lNjhiZjVhNS1lOTQxLTRkOTQtYjg2OS1hNDNiMzVmNDhlYmYucG5nIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.TKWjV-iwGhh5dY2-PDae_NO7w9jQoRg8gG8IbHi8yf8",
                 Jp: "0",
-                power: "0",
+                power: "W0",
                 Map: "Omni",
                 effect: "<br><i>Retired (This card may only attack through effects).</i> AGONY: WHEN KILLED: Add this card to an existing STACK in play.",
             }, {
@@ -7707,7 +7707,7 @@
                 rarity: "",
                 type: "Customization",
                 image: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f92d55ca-8441-433e-b818-eeb152a8b8ea/dizcy01-e5933e7a-875e-42bf-b027-e34ac75843d2.png/v1/fit/w_750,h_1050/save_a_friend_by_siresquawks_dizcy01-375w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDIwMCIsInBhdGgiOiIvZi9mOTJkNTVjYS04NDQxLTQzM2UtYjgxOC1lZWIxNTJhOGI4ZWEvZGl6Y3kwMS1lNTkzM2U3YS04NzVlLTQyYmYtYjAyNy1lMzRhYzc1ODQzZDIucG5nIiwid2lkdGgiOiI8PTMwMDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.DMllHPiZXq4kLIe7_50UUmo_XkTw6lULsmSAxFgGI1U",
-                power: "0",
+                power: "W0",
                 Map: "Off Map",
                 effect: "<br>Send a [Spirit] with a play cost of 40% or less that you control or  that's in a STACK you control to then salvage. For every 20% of that card's play cost add a permnet -1 JP countor to a card in play.",
             }, {
@@ -8205,7 +8205,7 @@
                 rarity: "",
                 type: "Customization",
                 image: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f92d55ca-8441-433e-b818-eeb152a8b8ea/dj2geds-1c5c9b70-1a42-40a5-bf4b-2721a98e2e28.png/v1/fit/w_750,h_1050/fazbear_nanobots_by_siresquawks_dj2geds-375w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDIwMCIsInBhdGgiOiIvZi9mOTJkNTVjYS04NDQxLTQzM2UtYjgxOC1lZWIxNTJhOGI4ZWEvZGoyZ2Vkcy0xYzVjOWI3MC0xYTQyLTQwYTUtYmY0Yi0yNzIxYTk4ZTJlMjgucG5nIiwid2lkdGgiOiI8PTMwMDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.1TR7r0ZwFIMkQpr9xWssEq6SC5iw2BKS4Md0xye6MdA",
-                power: "0",
+                power: "W0",
                 Map: "Off Map",
                 effect: "<br>AUGMENT a card in play- then reveal card in your hand. The AUGMENTED card is now treated as having the revealed card's [Design] in addition to it own.",
             }, {
@@ -8366,7 +8366,7 @@
                 type: "Costume/???",
                 image: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f92d55ca-8441-433e-b818-eeb152a8b8ea/dlnh0z0-56d270b5-513d-4a48-8d9f-58b871050a07.png/v1/fit/w_750,h_984/sparky_____movie__by_siresquawks_dlnh0z0-375w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTE4MCIsInBhdGgiOiIvZi9mOTJkNTVjYS04NDQxLTQzM2UtYjgxOC1lZWIxNTJhOGI4ZWEvZGxuaDB6MC01NmQyNzBiNS01MTNkLTRhNDgtOGQ5Zi01OGI4NzEwNTBhMDcucG5nIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.X3Jj9kPd9brZAmvQnrKQz2wfTMMelCw9OUgR-h4ayjU",
                 Jp: "0",
-                power: "0",
+                power: "W0",
                 Map: "Omni",
                 effect: "<br><i>Hoax (This effect does something- you just haven't found it yet).</i> This card can't attack, block, or kill cards by fighting. You may SCRAP this card when playing a [???] or a \"?\" card in an adjacent space to Heal 1.",
             }, {
@@ -9159,7 +9159,7 @@
                 type: "Animatronic/Amalgam",
                 image: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f92d55ca-8441-433e-b818-eeb152a8b8ea/dm5e9rl-ed16a3c8-3a5c-4a88-b5fe-9d6181c89cc6.png/v1/fit/w_750,h_984/grafted_foxy_by_siresquawks_dm5e9rl-375w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTE4MCIsInBhdGgiOiIvZi9mOTJkNTVjYS04NDQxLTQzM2UtYjgxOC1lZWIxNTJhOGI4ZWEvZG01ZTlybC1lZDE2YTNjOC0zYTVjLTRhODgtYjVmZS05ZDYxODFjODljYzYucG5nIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.rZqfNr2D3jfrDTr6Zb1117h4BBLbCeCTuRGJPGLEWpE",
                 Jp: "0",
-                power: "0",
+                power: "W0",
                 Map: "Omni",
                 effect: "<br>You may play \"Grafted Ennard\" from your hand or salvage to this card's space and add this card to it's STACK, you may also discard a card from your hand to Gain 20% and discard a card from your hand to make it aGGRESSIVe.",
             }, {
@@ -9315,7 +9315,7 @@
                 type: "Costume",
                 image: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f92d55ca-8441-433e-b818-eeb152a8b8ea/dlkhll2-67b2ee7d-80f7-4311-bfc2-173e0505eea2.png/v1/fit/w_828,h_1086/forgotten_freddy_by_siresquawks_dlkhll2-414w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTE4MCIsInBhdGgiOiIvZi9mOTJkNTVjYS04NDQxLTQzM2UtYjgxOC1lZWIxNTJhOGI4ZWEvZGxraGxsMi02N2IyZWU3ZC04MGY3LTQzMTEtYmZjMi0xNzNlMDUwNWVlYTIucG5nIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.AjIS6uuoymjam5bbfpphMVS4tF38rebUG_dXB-80Iqc",
                 Jp: "0",
-                power: "0",
+                power: "W0",
                 Map: "Right_Office",
                 effect: "<br>This card can't attack (even with effects) or kill a card by fighting. AGONY: ONCE PER TURN: While this card is in then salvage or a STACK & a [Spirit], [Bear], or [Costume] card pays power for an effect- Gain 10% power then discard a card from your deck. you can use this effect while this card is in play if you control a [Spirit].",
             }, {
@@ -9328,7 +9328,7 @@
                 type: "Costume",
                 image: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f92d55ca-8441-433e-b818-eeb152a8b8ea/dlkhlkv-78417183-93ef-4f11-b27a-74ba0a48774b.png/v1/fit/w_828,h_1086/forgotten_bonnie_by_siresquawks_dlkhlkv-414w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTE4MCIsInBhdGgiOiIvZi9mOTJkNTVjYS04NDQxLTQzM2UtYjgxOC1lZWIxNTJhOGI4ZWEvZGxraGxrdi03ODQxNzE4My05M2VmLTRmMTEtYjI3YS03NGJhMGE0ODc3NGIucG5nIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.oEDR61Wv7Eze8pn8YgpUMXCvSSzoR1YywOYHGVpPaJs",
                 Jp: "0",
-                power: "0",
+                power: "W0",
                 Map: "Left_Hall",
                 effect: "<br>This card can't attack (even with effects) or kill a card by fighting. AGONY: ONCE PER TURN: While this card is in then salvage or a STACK- Pay 10% power to add a -1 JP counter to a counter to a card in play for the turn. you can use this effect while this card is in play if you control a [Spirit].",
             }, {
@@ -9341,7 +9341,7 @@
                 type: "Costume",
                 image: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f92d55ca-8441-433e-b818-eeb152a8b8ea/dlk0st4-16386866-475d-4b96-bde3-9171d27d08f7.png/v1/fit/w_828,h_1086/forgotten_foxy_by_siresquawks_dlk0st4-414w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTE4MCIsInBhdGgiOiIvZi9mOTJkNTVjYS04NDQxLTQzM2UtYjgxOC1lZWIxNTJhOGI4ZWEvZGxrMHN0NC0xNjM4Njg2Ni00NzVkLTRiOTYtYmRlMy05MTcxZDI3ZDA4ZjcucG5nIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.TG2E7b06WVghbFrI2c2zI3C85tHwMSPfFLR_7Zg8FTA",
                 Jp: "0",
-                power: "0",
+                power: "W0",
                 Map: "Left_Hall",
                 effect: "<br>This card can't attack (even with effects) or kill a card by fighting. AGONY: ONCE PER TURN: While this card is in then salvage or a STACK- Pay 10% power to add a +1 JP counter to a counter to a card in play for the turn. you can use this effect while this card is in play if you control a [Spirit].",
             }, {
@@ -9354,7 +9354,7 @@
                 type: "Costume",
                 image: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f92d55ca-8441-433e-b818-eeb152a8b8ea/dllg2zq-18970969-979b-48bb-81fa-a954a4db5677.png/v1/fit/w_828,h_1086/forgotten_chica_by_siresquawks_dllg2zq-414w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTE4MCIsInBhdGgiOiIvZi9mOTJkNTVjYS04NDQxLTQzM2UtYjgxOC1lZWIxNTJhOGI4ZWEvZGxsZzJ6cS0xODk3MDk2OS05NzliLTQ4YmItODFmYS1hOTU0YTRkYjU2NzcucG5nIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.3xN3Km4EwPO-OtlHLD-ro2vf9ajkaR2oteesZRWGAi0",
                 Jp: "0",
-                power: "0",
+                power: "W0",
                 Map: "Right_Hall",
                 effect: "<br>This card can't attack (even with effects) or kill a card by fighting. AGONY: ONCE PER TURN: While this card is in then salvage or a STACK- You may discard a card from your hand to Heal 1. you can use this effect while this card is in play if you control a [Spirit].",
             }, {
