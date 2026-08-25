@@ -2179,7 +2179,7 @@
                 Jp: "2",
                 power: "60",
                 Map: "Halls",
-                effect: "<br>After this card attacks or blocks- remove all JP counters from it. START OF YOUR OPPONENT'S TURN: You must either:<br>*Discard a card from your deck to add a + 1 JP counter to this card (Max 2).<br>*Pay 30% to attack during your opponent's turn.",
+                effect: "<br>After this card attacks or blocks- remove all JP counters from it. START OF YOUR OPPONENT'S TURN: You must either:<br>*Discard a card from your deck to add a +1 JP counter to this card (Max 2).<br>*Pay 30% to attack during your opponent's turn.",
             }, {
                 name: "The Funtime Springlock Suit",
                 origin: "Sister Location",
