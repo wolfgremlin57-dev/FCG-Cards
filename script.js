@@ -49,7 +49,7 @@ window.onload = () => {
                 ${card.set ? `<p>Set/ID: ${card.set}</p>` : ""}
                 ${card.credit ? `<p>Artist's Name: ${card.credit}</p>` : ""}
                 ${card.rarity ? `<p>Rarity: ${card.rarity}</p>` : ""}
-                ${card.power ? `<p>Power: ${card.power.replace(/_Null/g, "Null").replace(/-10/g, "-10%").replace(/H100/g, "100%").replace(/W0/g, "0%").replace(/10/g, "10%").replace(/20/g, "20%").replace(/30/g, "30%").replace(/40/g, "40%").replace(/50/g, "50%").replace(/60/g, "60%").replace(/70/g, "70%").replace(/70/g, "70%").replace(/80/g, "80%").replace(/90/g, "90%")}</p>` : ""}
+                ${card.power ? `<p>Power: ${card.power.replace(/_Null/g, "Null").replace(/-10/g, "-10%").replace(/H100/g, "100%").replace(/W0/g, "0%").replace(/G10/g, "10%").replace(/20/g, "20%").replace(/30/g, "30%").replace(/40/g, "40%").replace(/50/g, "50%").replace(/60/g, "60%").replace(/70/g, "70%").replace(/70/g, "70%").replace(/80/g, "80%").replace(/90/g, "90%")}</p>` : ""}
                 ${card.Jp ? `<p>JP: ${card.Jp}</p>` : ""}
                 ${card.design ? `<p>Design: ${card.design}</p>` : ""}
                 ${card.type ? `<p>Type: ${card.type}</p>` : ""}
