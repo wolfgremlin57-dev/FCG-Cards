@@ -1221,7 +1221,7 @@
                 Map: "Front",
                 effect: "<br>For every 20% you spend on playing this card- your opponent must either heal 2 or draw 1 card. You may use the following effects to lower its cost:<br>*You may kill every card on your map possible to reduce this card's play cost by 20% for each card killed by this effect.<br>*You may choose to take any amount of damage to reduce this card's play cost by 10% for every 2 damage taken."
             }, {
-                name: "Plushtrap \"The Little Nightmare\"",
+                name: " \"The Little Nightmare\"",
                 origin: "FNAF 4",
                 set: "FCG1-Cawthon Chaos-094",
                 credit: "Scott Cawthon",
@@ -3334,11 +3334,11 @@
                 rarity: "☆",
                 design: "Rabbit",
                 type: "Plush",
-                image: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f92d55ca-8441-433e-b818-eeb152a8b8ea/dmch4dr-6168187a-cd24-4dd2-b327-7afb33d9165b.png/v1/fit/w_828,h_1086/plushtrap__llc__by_siresquawks_dmch4dr-414w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTE4MCIsInBhdGgiOiIvZi9mOTJkNTVjYS04NDQxLTQzM2UtYjgxOC1lZWIxNTJhOGI4ZWEvZG1jaDRkci02MTY4MTg3YS1jZDI0LTRkZDItYjMyNy03YWZiMzNkOTE2NWIucG5nIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.Kl60kDXIYEv2R2zwnh4PdGOOZhPD_zL-2s3zz-E2QBM",
-                Jp: "2",
+                image: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f92d55ca-8441-433e-b818-eeb152a8b8ea/dmch4dr-a9126326-22da-4145-a29f-842b22054896.png/v1/fit/w_828,h_1086/plushtrap__llc__by_siresquawks_dmch4dr-414w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTE4MCIsInBhdGgiOiIvZi9mOTJkNTVjYS04NDQxLTQzM2UtYjgxOC1lZWIxNTJhOGI4ZWEvZG1jaDRkci1hOTEyNjMyNi0yMmRhLTQxNDUtYTI5Zi04NDJiMjIwNTQ4OTYucG5nIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.PTEdx4bwf6dvBiAD7hXTOZf3of6RA6F1dcYfhnBfdjc",
+                Jp: "1",
                 power: "40",
                 Map: "OfficeLR",
-                effect: "<br>This card can only attack directly. When this card deals damage gain 10%. WHEN ATTACKING: Your Opponent guesses the power indicator color of the top of your deck (0% white, 10-30% green, 40-60% yellow, 70-90% red, 100% Black, etc) and the exact cost of the card. Reveal the top card, then if they got the Exact cost wrong give this card +1 JP, if they got the color wrong make it uNSTOPPABLe. Remove the JP increase and uNSTOPPABLe effect at the end of the turn.",
+                effect: "<br>This card can only attack directly. When this card deals damage gain 10%. WHEN ATTACKING: Your Opponent guesses the power indicator color of the top of your deck (0% white, 10-30% green, 40-60% yellow, 70-90% red, 100% Black, etc) and the exact cost of the card. Reveal the top card, then if they got the Exact cost wrong make this card uNSTOPPABLe, if they got the color wrong give it +1 JP. Remove the JP increase and uNSTOPPABLe effect at the end of the turn.",
             }, {
                 name: "8-Bit Baby (LLC) ",
                 origin: "FNAF AR",
