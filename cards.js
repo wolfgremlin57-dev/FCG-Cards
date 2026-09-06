@@ -6411,7 +6411,7 @@
                 Jp: "3",
                 power: "60",
                 Map: "Front",
-                effect: " START OF YOUR TURN: Reveal the top 3 cards of your deck- then discard 1 card among them and ARCHIVE the rest.",
+                effect: " GIANT. START OF YOUR TURN: Reveal the top 3 cards of your deck- then discard 1 card among them and ARCHIVE the rest.",
             }, {
                 name: "Henry Emily (Novels)",
                 origin: "Silver Eyes",
