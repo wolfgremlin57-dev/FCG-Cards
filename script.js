@@ -37,7 +37,7 @@ window.onload = () => {
     const pageCards = filteredCards.slice(start, end);
 
                 pageCards.forEach(card => {
-                    const GiantCards = ["Faz-Pilot Gregory", "Dreadbear \"Jack-o-Fredbear\"", "DJ Music Man \"The Glamrock's DJ\"", "The Tangle", "Ruined Music Man", "Ominous Gang Of Clowns \"Funtime\"", "The Agony Colossus \"Eleanor\"\, \"William Afton\"", "Zendrelix", "The Springlock Ouroboros \"Afton Reborn Remains Endless Springtrap\""];
+                    const GiantCards = ["Faz-Pilot Gregory", "Dreadbear \"Jack-o-Fredbear\"", "DJ Music Man \"The Glamrock's DJ\"", "The Tangle", "Ruined Music Man", "Ominous Gang Of Clowns \"Funtime\"", "The Agony Colossus \"Eleanor\"\, \"William Afton\"", "Zendrelix", "The Springlock Ouroboros \"Afton Reborn Remains Endless Springtrap\"", "BIG TOP \"The Mimic\"\, \"Music Man\"", "Shattered BIG TOP \"The Mimic\"\, \"Music Man\""];
                     container.innerHTML += `
         <div class="card ${GiantCards.includes(card.name) ? "giant-card-style" : ""}">
           <div class="image-container">
