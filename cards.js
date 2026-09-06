@@ -5488,7 +5488,7 @@
                 type: "Animatronic",
                 image: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f92d55ca-8441-433e-b818-eeb152a8b8ea/dhqru4t-77e17d92-9c19-4009-b9af-ee9c6d0e55fe.png/v1/fit/w_828,h_1160/the_mimic__costume__by_siresquawks_dhqru4t-414w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDIwMCIsInBhdGgiOiIvZi9mOTJkNTVjYS04NDQxLTQzM2UtYjgxOC1lZWIxNTJhOGI4ZWEvZGhxcnU0dC03N2UxN2Q5Mi05YzE5LTQwMDktYjlhZi1lZTljNmQwZTU1ZmUucG5nIiwid2lkdGgiOiI8PTMwMDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.DhOoI151x4i8B9n6TfcE1woX34lCEWNawmGOygdikX4",
                 Jp: "3",
-                power: "70",
+                power: "H100",
                 Map: "Halls",
                 effect: "<br><i>REQUIREMENT: 4 or more non-[Customization] cards in your salvage.</i> WHEN PLAYED: Choose 4 unique character cards in your salvage. From the cards choose 1 card's JP, one card's [Design], one card's [Type], and a card's  effect text- while this card is in play it has those aspets of each chosen card.",
             }, {
