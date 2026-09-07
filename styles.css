@@ -142,7 +142,7 @@ input[type="text"]:focus {
     position: relative;
 }
 
-.power-badge {
+/*.power-badge {
     position: absolute;
     top: 8px;
     right: 8px;
@@ -152,7 +152,7 @@ input[type="text"]:focus {
     border-radius: 6px;
     font-weight: bold;
     font-size: 13px;
-}
+}*/
 
 .pagination {
     display: flex;
