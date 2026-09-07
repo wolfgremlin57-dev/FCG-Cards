@@ -37,11 +37,12 @@ function render() {
     const pageCards = filteredCards.slice(start, end) || [];
 
     pageCards.forEach(card => {
+        const GiantCards = ["Faz-Pilot Gregory", "Dreadbear \"Jack-o-Fredbear\"", "DJ Music Man \"The Glamrock's DJ\"", "The Tangle", "Fazbear Entertainment Presents The Mega Pizzaplex", "Ruined Music Man", "Ominous Gang Of Clowns \"Funtime\"", "The Agony Colossus \"Eleanor\"\, \"William Afton\"", "Zendrelix", "The Springlock Ouroboros \"Afton Reborn Remains Endless Springtrap\"", "BIG TOP \"The Mimic\"\, \"Music Man\"", "Shattered BIG TOP \"The Mimic\"\, \"Music Man\""];
         const rarityAttr = (card.rarity || "").replace(/["']/g, "");
         container.innerHTML += `
 <div class="card" data-rarity="${rarityAttr}">
     <div class="image-container">
-        <img src="${card.image}" class="card-image" alt="${card.name || ""}">
+        <img src="${card.image}" class="card-image" style="${GiantCards.includes(card.name) ? "transform: rotate(90deg); width: auto; height: 230px; margin-top: 30px; margin-left: 28px;" : ""}">
         
     </div>
     <div class="card-body" hidden>
