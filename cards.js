@@ -4887,7 +4887,7 @@
                 Jp: "3",
                 power: "70",
                 Map: "Front",
-                effect: "<br><i>Giant (Play this card sideways so it takes up 2 spaces. It can attack directly and target a deactivated card at the same time).</i> <mark>WHILE THIS CARD HAS A VIRUS:</mark> It may attack or block as if it were two seperate cards, but must pay 10% each time.",
+                effect: "<br><i>Giant (Play this card sideways so it takes up 2 spaces. It can attack directly and target a deactivated card at the same time).</i> <br><mark>WHILE THIS CARD HAS A VIRUS:</mark> It may attack or block as if it were two seperate cards, but must pay 10% each time.",
             }, {
                 name: "Giga Monty",
                 origin: "Security Breach",
