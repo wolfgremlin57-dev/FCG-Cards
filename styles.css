@@ -1,349 +1,180 @@
-body {
-    font-family: Arial;
-    background: #1f0f2a;
-    color: white;
-    margin: 0;
-    padding: 20px;
-}
 
-h1 {
-    text-align: center;
-    letter-spacing: 2px;
-}
+            body {
+                font-family: Arial;
+                background: #1f0f2a;
+                color: white;
+                margin: 0;
+                padding: 20px;
+            }
 
-.sticky-controls {
-    position: sticky;
-    top: 0;
-    z-index: 100;
-    background: rgba(31, 15, 42, 0.95);
-    backdrop-filter: blur(4px);
-    padding: 10px 0;
-    margin: -20px -20px 20px -20px;
-}
+            h1 {
+                text-align: center;
+            }
 
-h1 + .controls,
-.controls {
-    display: flex;
-    gap: 8px;
-    margin-bottom: 8px;
-    flex-wrap: wrap;
-}
+            .controls {
+                display: flex;
+                gap: 10px;
+                margin-bottom: 20px;
+                flex-wrap: wrap;
+            }
 
-input, select, button {
-    padding: 9px 10px;
-    border: none;
-    border-radius: 5px;
-    font-size: 14px;
-}
+            input, select {
+                padding: 10px;
+                border: none;
+                border-radius: 5px;
+            }
 
-select,
-input[type="text"] {
-    background: #2c1e3b;
-    color: white;
-    outline: 1px solid #4a3b5e;
-}
+            .grid {
+                display: grid;
+                grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+                gap: 15px;
+            }
 
-input[type="text"]::placeholder {
-    color: #9d8fb5;
-}
+            .card {
+                background: #2c1e3b;
+                border-radius: 10px;
+                overflow: hidden;
+                transition: 0.2s;
+            }
 
-select:focus,
-input[type="text"]:focus {
-    outline: 2px solid #7b5fa8;
-}
+            .card:hover {
+                transform: scale(1.03);
+            }
 
-.controls button,
-#clearFilters {
-    background: #b33939;
-    color: white;
-    cursor: pointer;
-    transition: 0.15s;
-}
+            .card img {
+                width: 100%;
+                height: 300px;
+                object-fit: cover;
+            }
 
-.controls button:hover,
-#clearFilters:hover {
-    background: #d35400;
-}
+            .card-body {
+                padding: 15px;
+            }
 
-#stats {
-    margin-bottom: 12px;
-    color: #c9bde0;
-    font-size: 14px;
-}
+            .image-container {
+                position: relative;
+            }
 
-.grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-    gap: 15px;
-}
+            mark.red {
+                background: red;
+                color: black;
+            }
 
-.card {
-    background: #2c1e3b;
-    border-radius: 10px;
-    overflow: hidden;
-    transition: 0.2s;
-    border: 2px solid #3d2c52;
-    display: flex;
-    flex-direction: column;
-}
+            mark.orange {
+                background: orange;
+                color: black;
+            }
 
-.card:hover {
-    transform: scale(1.03);
-    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.45);
-}
+            mark.retroorange {
+                background: #ffa50000;
+                color: #ffa603;
+            }
 
-.card img {
-    width: 100%;
-    height: 300px;
-    object-fit: cover;
-    cursor: pointer;
-    display: block;
-}
+            mark.graftedorange {
+                background: #ffa50000;
+                color: #e37600;
+            }
 
-.card-body {
-    padding: 15px;
-    border-top: 1px solid #3d2c52;
-}
+            mark.altyellow {
+                background: #ffa60300;
+                color: #ffff00;
+            }
 
-.card-body p {
-    margin: 4px 0;
-    font-size: 14px;
-    line-height: 1.4;
-}
+            mark.lightyellow {
+                background: #7b6900;
+                color: white;
+            }
 
-.card-body h3 {
-    margin: 0 0 8px 0;
-    font-size: 16px;
-}
+            mark.pink {
+                background: #ff3384;
+                color: black;
+            }
 
-.image-container {
-    position: relative;
-}
+            mark.altpink {
+                background: #ff338400;
+                color: #ff3384;
+            }
 
-.power-badge {
-    position: absolute;
-    top: 8px;
-    right: 8px;
-    background: rgba(0, 0, 0, 0.72);
-    color: #ffd700;
-    padding: 3px 8px;
-    border-radius: 6px;
-    font-weight: bold;
-    font-size: 13px;
-}
+            mark.pastelpink {
+                background: #f5a1e9;
+                color: black;
+            }
 
-.pagination {
-    display: flex;
-    gap: 6px;
-    justify-content: center;
-    margin-top: 20px;
-    flex-wrap: wrap;
-}
+            mark.blue {
+                background: #008bff;
+                color: black;
+            }
 
-.top-pagination {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    gap: 12px;
-    flex-wrap: wrap;
-    margin-bottom: 14px;
-    background: #251737;
-    border: 1px solid #3d2c52;
-    border-radius: 8px;
-    padding: 8px 14px;
-}
+            mark.altblue {
+                background: #008bff00;
+                color: #008bff;
+            }
 
-.top-pagination .page-jump {
-    display: flex;
-    align-items: center;
-    gap: 8px;
-    flex-wrap: wrap;
-}
+            mark.green {
+                background: #7df469;
+                color: black;
+            }
 
-.top-pagination label {
-    color: #c9bde0;
-    font-size: 14px;
-}
+            mark.malharegreen {
+                background: #7df46900;
+                color: #00e800;
+            }
 
-.top-pagination #pageJump {
-    width: 70px;
-    text-align: center;
-    padding: 6px 8px;
-    background: #2c1e3b;
-    color: white;
-    border: 1px solid #4a3b5e;
-    border-radius: 5px;
-    -moz-appearance: textfield;
-}
+            mark.agony {
+                background: #008bff00;
+                color: red;
+            }
 
-.top-pagination #pageJump::-webkit-outer-spin-button,
-.top-pagination #pageJump::-webkit-inner-spin-button {
-    -webkit-appearance: none;
-    margin: 0;
-}
+            mark.purple {
+                background: #f36af9;
+                color: black;
+            }
 
-.top-pagination #pageJump:focus {
-    outline: 2px solid #7b5fa8;
-}
+            mark.mediocrepurple {
+                background: #008bff00;
+                color: #6816fc;
+            }
 
-.top-pagination button,
-#pagination button {
-    background: #2c1e3b;
-    color: white;
-    border: 1px solid #4a3b5e;
-    border-radius: 5px;
-    padding: 6px 12px;
-    cursor: pointer;
-    transition: 0.15s;
-}
+            mark.viruspurple {
+                background: #450075;
+                color: white;
+            }
 
-.top-pagination button:hover:not(:disabled),
-#pagination button:hover:not(:disabled) {
-    background: #463566;
-}
+            mark.idbearpurple {
+                background: #45007500;
+                color: #4b007e;
+                text-decoration: line-through;
+                text-decoration-color: #4b007e;
+            }
 
-.top-pagination button:disabled,
-#pagination button:disabled {
-    opacity: 0.45;
-    cursor: default;
-}
+            mark.idunder {
+                background: #45007500;
+                color: #4b007e;
+                text-decoration: underline;
+                text-decoration-color: #4b007e;
+            }
 
-.pagination button,
-#pagination button {
-    background: #2c1e3b;
-    color: white;
-    border: 1px solid #4a3b5e;
-    border-radius: 5px;
-    padding: 6px 12px;
-    cursor: pointer;
-    transition: 0.15s;
-}
+            mark.smallqm {
+                background: #45007500;
+                color: white;
+                font-size: 0.5em;
+            }
 
-.pagination button:hover:not(:disabled),
-#pagination button:hover:not(:disabled) {
-    background: #463566;
-}
+            /*.tooltip {
+                position: absolute;
+                bottom: 20px;
+                left: 16px;
+                background: rgba(0,0,0,0);
+                color: rgba(0,0,0,0);
+                padding: 10px;
+                border-radius: 8px;
+                width: 180px;
+                opacity: 0;
+                transition: 0.2s;
+                pointer-events: none;
+                font-size: 14px;
+            }
 
-.pagination button:disabled,
-#pagination button:disabled {
-    opacity: 0.45;
-    cursor: default;
-}
-
-.pagination button.active,
-#pagination button.active {
-    background: #7b5fa8;
-    font-weight: bold;
-}
-
-mark.red {
-    background: red;
-    color: black;
-}
-
-mark.orange {
-    background: orange;
-    color: black;
-}
-
-mark.retroorange {
-    background: #ffa50000;
-    color: #ffa603;
-}
-
-mark.graftedorange {
-    background: #ffa50000;
-    color: #e37600;
-}
-
-mark.altyellow {
-    background: #ffa60300;
-    color: #ffff00;
-}
-
-mark.lightyellow {
-    background: #7b6900;
-    color: white;
-}
-
-mark.pink {
-    background: #ff3384;
-    color: black;
-}
-
-mark.altpink {
-    background: #ff338400;
-    color: #ff3384;
-}
-
-mark.pastelpink {
-    background: #f5a1e9;
-    color: black;
-}
-
-mark.blue {
-    background: #008bff;
-    color: black;
-}
-
-mark.altblue {
-    background: #008bff00;
-    color: #008bff;
-}
-
-mark.green {
-    background: #7df469;
-    color: black;
-}
-
-mark.malharegreen {
-    background: #7df46900;
-    color: #00e800;
-}
-
-mark.agony {
-    background: #008bff00;
-    color: red;
-}
-
-mark.purple {
-    background: #f36af9;
-    color: black;
-}
-
-mark.mediocrepurple {
-    background: #008bff00;
-    color: #6816fc;
-}
-
-mark.viruspurple {
-    background: #450075;
-    color: white;
-}
-
-mark.idbearpurple {
-    background: #45007500;
-    color: #4b007e;
-    text-decoration: line-through;
-    text-decoration-color: #4b007e;
-}
-
-mark.idunder {
-    background: #45007500;
-    color: #4b007e;
-    text-decoration: underline;
-    text-decoration-color: #4b007e;
-}
-
-mark.smallqm {
-    background: #45007500;
-    color: white;
-    font-size: 0.5em;
-}
-
-/* Rarity-colored card borders */
-.card[data-rarity="☆"] { border-color: #5a7d3a; }
-.card[data-rarity="☆☆"] { border-color: #3a6d8f; }
-.card[data-rarity="☆☆☆"] { border-color: #7b5fa8; }
-.card[data-rarity="☆☆☆☆"] { border-color: #c9a227; }
-.card[data-rarity="★"] { border-color: #6b6b6b; }
+            .image-container:hover .tooltip {
+                opacity: 1;
+            }*/
