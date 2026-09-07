@@ -50,7 +50,7 @@ function render() {
         ${card.set ? `<p>Set/ID: ${card.set}</p>` : ""}
         ${card.credit ? `<p>Artist's Name: ${card.credit}</p>` : ""}
         ${card.rarity ? `<p>Rarity: ${card.rarity}</p>` : ""}
-        ${card.power ? `<p>Power: ${card.power.replace(/_Null/g, "Null").replace(/H100/g, "100")}</p>` : ""}
+        ${card.power ? `<p>Power: ${card.power.replace(/_Null/g, "Null").replace(/H100/g, "100%").replace(/10G/g, "10%").replace(/0W/g, "0%")}</p>` : ""}
         ${card.Jp ? `<p>JP: ${card.Jp}</p>` : ""}
         ${card.design ? `<p>Design: ${card.design}</p>` : ""}
         ${card.type ? `<p>Type: ${card.type}</p>` : ""}
