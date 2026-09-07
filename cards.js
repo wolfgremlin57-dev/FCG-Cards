@@ -9361,7 +9361,7 @@
                 effect: "<br>On your turn- this card has +1 JP for every 3 cards in your hand (Max 4). On your opponent's turn- it has +1 JP for every 3 cards in your opponent's hand (Max 4). ONCE PER TURN: Discard 2 cards from your hand to reactivate or deacivate up to two [Spirit] or [Human] characters in play.",
             }, {
                 name: "El Chip '07",
-                origin: "",
+                origin: "Dark Thoughts with El Chip",
                 set: "FCG4-Enter the Fazverse-00x",
                 credit: "SireSquawks",
                 rarity: "☆☆☆",
@@ -9374,7 +9374,7 @@
                 effect: "WHEN ATTACKING: Add a counter to 2 \"El Chip\" cards in play. TWICE PER TURN: You may move counters from any adjacent cards to this one. If more then 5 were added to this card, deal 1 damage & give cards in its path -1 JP for the turn. ONCE PER TURN: Target a card in this card's path, then remove counters this card equal to that card's JP to deactivate it.",
             }, {
                 name: "Dawn Coyote \"El Chip's Best Pal\"",
-                origin: "",
+                origin: "Dark Thoughts with El Chip",
                 set: "FCG4-Enter the Fazverse-00x",
                 credit: "SireSquawks",
                 rarity: "☆☆",
@@ -9387,7 +9387,7 @@
                 effect: "WHEN ATTACKING: You may remove counters from this card to increase it's JP by 1 for every 2 counters used up. ONCE PER TURN: Add 2 counters to this card. When an \"El Chip\" card attacks- you may refresh this ability.",
             }, {
                 name: "Jay Jaguar \"El Chip's Straight Man Routine\"",
-                origin: "",
+                origin: "Dark Thoughts with El Chip",
                 set: "FCG4-Enter the Fazverse-00x",
                 credit: "SireSquawks",
                 rarity: "☆☆",
@@ -9400,7 +9400,7 @@
                 effect: "When a \"Chip\" card attacks- Gain 10% power. START OF YOUR TURN: You may Deactivate this card to gain 10% for every 2 counters on it.",
             }, {
                 name: "Sonajero \"The El Chip's Gang's Pet Snake Thing\"",
-                origin: "",
+                origin: "Dark Thoughts with El Chip",
                 set: "FCG4-Enter the Fazverse-00x",
                 credit: "SireSquawks",
                 rarity: "☆",
@@ -9413,7 +9413,7 @@
                 effect: "When this card would be killed by fighting, you may remove a counter from it or an adjacent card you control for each point of JP the enemy card had, if you did- Negate this card's death. WHEN ATTACKING: Add a counter to this card; if any card blocked this card, add a counter to this card for each counter on the enemy card before the fight begins.",
             }, {
                 name: "May Mink",
-                origin: "",
+                origin: "Dark Thoughts with El Chip",
                 set: "FCG4-Enter the Fazverse-00x",
                 credit: "SireSquawks",
                 rarity: "☆☆",
@@ -9426,7 +9426,7 @@
                 effect: "ONCE PER TURN: When you play an \"El Chip\" card, you may move up to 3 counters from this card to that \"El Chip\" card. START OF YOUR TURN: Add a Counter to this card. If you control an \"El Chip\" card, you may deactivate this card and remove counters from this card to set your power to 10% X the number of counters you removed (Max 50%).",
             }, {
                 name: "El Chip's Curse",
-                origin: "",
+                origin: "Dark Thoughts with El Chip",
                 set: "FCG4-Enter the Fazverse-00x",
                 credit: "SireSquawks",
                 rarity: "☆",
