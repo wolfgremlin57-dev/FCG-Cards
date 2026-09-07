@@ -19,7 +19,7 @@ const aliasMap = {
 };
 
 function toPowerNumber(p) {
-    //if (p === "_Null") return Infinity;      // sort Null last
+    if (p === "_Null") return -999;      // sort Null last
     return parseInt(String(p).replace(/H100/g, "100"), 10) || 0;
 }
 
