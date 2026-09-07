@@ -42,7 +42,7 @@ function render() {
 <div class="card" data-rarity="${rarityAttr}">
     <div class="image-container">
         <img src="${card.image}" class="card-image" alt="${card.name || ""}">
-        <div class="power-badge">${card.power !== undefined && card.power !== null ? card.power.replace(/_Null/g, "Null").replace(/H100/g, "100") : ""}</div>
+        
     </div>
     <div class="card-body" hidden>
         <h3>${card.name?.replace(/\(\?\)/g, "<mark class = 'smallqm'>(\?\)</mark>").replace(/VIRUS/g, "<mark class = 'mediocrepurple'>VIRUS</mark>").replace(/Giga Monty/g, "<mark class = 'malharegreen'>Giga Monty</mark>") || " "}</h3>
