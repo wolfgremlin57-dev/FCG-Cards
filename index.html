@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
     <head>
         <meta charset="UTF-8">
@@ -8,7 +9,7 @@
     </head>
     <body>
          <h1>FCG CARD DATABASE</h1>
-        <div class="sticky-controls"><div class="controls">
+        <div class="controls">
             <input type="text" id="search" placeholder="Search name ...">
             <select id="Set">
                 <option value="">Set</option>
@@ -101,7 +102,7 @@
                 <option value="Food">Food</option>
                 <option value="Frog">Frog</option>
                 <option value="Fox">Fox</option>
-                <option value="Gator">Gator</option>
+                <option value="Gator,gator">Gator</option>
                 <option value="Goo">Goo</option>
                 <option value="Hippo">Hippo</option>
                 <option value="Humanoid">Humanoid</option>
@@ -241,21 +242,11 @@
                 <option value="JP Reversed">JP: High -> Low</option>
             </select>
 <button id="clearFilters">Clear</button>
-        </div></div>
-        <div class="top-pagination">
-            <span class="page-jump">
-                <button id="topPrev" title="Previous page">&#8592;</button>
-                <button id="topFirst" title="First page">&#8249;&#8249;</button>
-                <label>Page</label>
-                <input type="number" id="pageJump" min="1" value="1" title="Enter a page number and press Enter">
-                <label>of <span id="totalPagesTop">1</span></label>
-                <button id="topNext" title="Next page">&#8594;</button>
-                <button id="topLast" title="Last page">&#8250;&#8250;</button>
-            </span>
-            <span id="pageInfo"></span>
         </div>
-        <div id="stats"></div>
         <div class="grid" id="results"></div>
+       <div class="pagination">
+    <span id="pageInfo"></span>
+        </div>
 <div id="pagination"></div>
         <script src="cards.js"></script>
 <script src="script.js"></script>
