@@ -18,10 +18,10 @@ const aliasMap = {
     "Off Map": ["Off Map"],
 };
 
-function toPowerNumber(p) {
+/*function toPowerNumber(p) {
     if (p === "_Null") return Infinity;      // sort Null last
     return parseInt(String(p).replace(/H100/g, "100"), 10) || 0;
-}
+}*/
 
 function toJpNumber(j) {
     if (j === "???" || j === "X") return Infinity; // unknown last
