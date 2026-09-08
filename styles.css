@@ -406,8 +406,8 @@ mark.smallqm {
 }
 
 /* Rarity-colored card borders */
-.card[data-rarity="☆"] { border-color: #5a7d3a; }
-.card[data-rarity="☆☆"] { border-color: #3a6d8f; }
-.card[data-rarity="☆☆☆"] { border-color: #7b5fa8; }
-.card[data-rarity="☆☆☆☆"] { border-color: #c9a227; }
-.card[data-rarity="★"] { border-color: #6b6b6b; }
+.card[data-rarity="☆"] { border-color: #59981f; }
+.card[data-rarity="☆☆"] { border-color: #2e79ac; }
+.card[data-rarity="☆☆☆"] { border-color: #672bc7; }
+.card[data-rarity="☆☆☆☆"] { border-color: #ffc200; }
+.card[data-rarity="★"] { border-color: #929292; }
