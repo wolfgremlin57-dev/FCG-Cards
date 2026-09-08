@@ -9965,6 +9965,6 @@
                 power: "40",
                 Jp: "1",
                 Map: "Off Map",
-                effect: "<br> You may SCRAP this card. All cards you play for the rest of the next turn. WHEN PLAYED: Reveal the Top 5 card of your deck to add a \"Golden\" \"Fredbear\" or [Spirit] to your hand, then ARCHIVE. If its still your turn, you may search your deck for any card with those traits to add to your hand then shuffle your deck.",
+                effect: "<br> You may SCRAP this card, All cards you play for the rest of the turn has 1+ jp until the start of your next turn. WHEN PLAYED: Reveal the Top 5 card of your deck to add a \"Golden\" \"Fredbear\" or [Spirit] to your hand, then ARCHIVE. If its still your turn, you may search your deck for any card with those traits to add to your hand then shuffle your deck.",
             },
 ]
