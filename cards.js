@@ -284,7 +284,7 @@
                 effect: "<br>Choose a \"Bonnie\" or [Rabbit] on the map, you may move it to any open space in it owner's front row.",
             }, {
                 name: "Pizza!",
-                origin: "FNAF 1/FNAF 6 (Pizza Sims.)",
+                origin: "FNAF 1/FNAF 6 (Pizza Sim.)",
                 set: "FCG1-Cawthon Chaos-020",
                 credit: "Scott Cawthon",
                 rarity: "☆",
