@@ -2622,7 +2622,7 @@
                 Jp: "0",
                 power: "80",
                 map: "OfficeLR",
-                effect: "<br>Any card this card fights deactivates before their sight begins. Anytime a card on the map dectivates or uses a {Per Turn} effect- add a +1 JP counter to the this card forthe turn and discard the top card of your deck.",
+                effect: "<br>Any card this card fights deactivates before their fight begins. Anytime a card on the map dectivates or uses a {Per Turn} effect- add a +1 JP counter to the this card for the turn and discard the top card of your deck.",
             }, {
                 name: "Funtime Chica",
                 origin: "FNAF 6 (Pizza Sim.)",
