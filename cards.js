@@ -4662,7 +4662,7 @@
                 rarity: "☆☆",
                 design: "Wolf",
                 type: "Animatronic",
-                image: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f92d55ca-8441-433e-b818-eeb152a8b8ea/dmvlphj-ae960887-4d88-4b2d-90ca-1a65bc4b388e.png/v1/fit/w_828,h_1086/roxanne_wolf_by_siresquawks_dmvlphj-414w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTE4MCIsInBhdGgiOiIvZi9mOTJkNTVjYS04NDQxLTQzM2UtYjgxOC1lZWIxNTJhOGI4ZWEvZG12bHBoai1hZTk2MDg4Ny00ZDg4LTRiMmQtOTBjYS0xYTY1YmM0YjM4OGUucG5nIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.oqK0Jrl1ry85LI7vnf_U16DCH-Hxkw8qFw_jTuulNkM",
+                image: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f92d55ca-8441-433e-b818-eeb152a8b8ea/dmvlphj-973faf5f-6024-47f6-b904-14de4a12edfc.png/v1/fit/w_828,h_1086/roxanne_wolf_by_siresquawks_dmvlphj-414w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTE4MCIsInBhdGgiOiIvZi9mOTJkNTVjYS04NDQxLTQzM2UtYjgxOC1lZWIxNTJhOGI4ZWEvZG12bHBoai05NzNmYWY1Zi02MDI0LTQ3ZjYtYjkwNC0xNGRlNGExMmVkZmMucG5nIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.-fG7MHhpI1YqqNrx4sYTWLNq3gLvixYgmBon5paLeu8",
                 Jp: "2",
                 power: "50",
                 Map: "Halls",
@@ -4679,7 +4679,7 @@
                 Jp: "2",
                 power: "50",
                 Map: "Halls",
-                effect: "<br>When a [Food] card is moved from play to your Salvage, add a \"Virus\" counter to this card or any adjacent card. UPON VIRUS: Send a non-{Persistent} [Food] Customization from your your salvage to your bottom deck, then Draw 1 and then Discard 1 from your hand for every 10% of that [Food] card's cost and Deal 1 Damage for every 2 cards Discarded.",
+                effect: "<br>When a [Food] card is moved from play to your Salvage, add a \"Virus\" counter to this card or any adjacent card. UPON VIRUS: Send a [Food] Card from your your salvage to your deck Bottom, then Draw 1 and then Discard 1 from your hand for every 10% of that [Food] card's cost and Deal 1 Damage for every 2 cards Discarded.",
             }, {
                 name: "Montgomery Gator \"Glamrock Monty\"",
                 origin: "Security Breach",
