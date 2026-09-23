@@ -4714,7 +4714,7 @@
                 rarity: "★",
                 design: "Endo",
                 type: "Animatronic",
-                image: "",
+                image: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f92d55ca-8441-433e-b818-eeb152a8b8ea/dmvrmpa-2af3e6d0-ed94-41a2-b46d-d00a0dc7b55f.png/v1/fit/w_828,h_1086/glamrock_endo_token_by_siresquawks_dmvrmpa-414w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTE4MCIsInBhdGgiOiIvZi9mOTJkNTVjYS04NDQxLTQzM2UtYjgxOC1lZWIxNTJhOGI4ZWEvZG12cm1wYS0yYWYzZTZkMC1lZDk0LTQxYTItYjQ2ZC1kMDBhMGRjN2I1NWYucG5nIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.ega472aaizNH8sArkdkHRjw-WUhUbKRCw30ahDD2s_8",
                 Jp: "2",
                 power: "_Null",
                 Map: "Front",
