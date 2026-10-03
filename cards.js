@@ -4965,7 +4965,7 @@
                 Jp: "1",
                 power: "70",
                 Map: "OfficeLR",
-                effect: " ONCE PER TUrn: Add a \"Virus\" counter to this card or an adjacent card- this effectcan be negated by your opponent deactivating a [Human] they control. TWICE PER TURN: Remove X amount of \"Virus\" counters from this cardto use one of the following effects: *Deactivate a card in play with X0% or less cost. *Play a \"Shattered\" or [Virus] card for its cost -X0%. *Add X amount of \"Virus\" Counters to a card on the Map.",
+                effect: " ONCE PER TUrn: Add a \"Virus\" counter to this card or an adjacent card- this effectcan be negated by your opponent deactivating a [Human] they control. TWICE PER turn: Remove X amount of \"Virus\" counters from this cardto use one of the following effects: *Deactivate a card in play with X0% or less cost. *Play a \"Shattered\" or [Virus] card for its cost -X0%. *Add X amount of \"Virus\" Counters to a card on the Map.",
             }, {
                 name: "The Tangle",
                 origin: "Security Breach",
