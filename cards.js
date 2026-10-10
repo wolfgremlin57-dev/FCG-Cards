@@ -3624,7 +3624,7 @@
                 Jp: "2",
                 power: "40",
                 Map: "OfficeLR",
-                effect: " END OF YOUR TURN: If this card is Active- filp it face down. While face down it cannot block attacks or be targeted for attack and can't be killed by character effects. Then at the start of your turn filp this card face-up.",
+                effect: " END OF YOUR TURN: If this card is Active- flip it face down. While face down it cannot block attacks or be targeted for attack and can't be killed by character effects. Then at the start of your turn flip this card face-up.",
             }, {
                 name: "Magician Mangle \"The Toy With Magic And Moxy\"",
                 origin: "FNAF AR",
@@ -6240,7 +6240,7 @@
                 Jp: "2",
                 power: "50",
                 Map: "Halls",
-                effect: "<br>On your opponent's turn this card filps face down. While face down it has 0 JP and can't be killed by character effects. ONCE PER TURN: Discard a [Bear], [Illusion], or \"(Novels)\" card from your hand- for every of one those traits it had- Gain 10%.",
+                effect: "<br>On your opponent's turn this card flips face down. While face down it has 0 JP and can't be killed by character effects. ONCE PER TURN: Discard a [Bear], [Illusion], or \"(Novels)\" card from your hand- for every of one those traits it had- Gain 10%.",
             }, {
                 name: "Twisted Bonnie (Novels)",
                 origin: "Twisted Ones",
@@ -6253,7 +6253,7 @@
                 Jp: "1",
                 power: "40",
                 Map: "Left_Office",
-                effect: "<br>On your opponent's turn this card filps face down. While face down it has 0 JP and can't be killed by blocking. ONCE PER TURN: Discard a card from your hand- if it was a [Rabbit], [Illusion], or \"(Novels)\" card- add a -1 JP counter to a card on your opponent's map for the turn.",
+                effect: "<br>On your opponent's turn this card flips face down. While face down it has 0 JP and can't be killed by blocking. ONCE PER TURN: Discard a card from your hand- if it was a [Rabbit], [Illusion], or \"(Novels)\" card- add a -1 JP counter to a card on your opponent's map for the turn.",
             }, {
                 name: "Twisted Chica (Novels)",
                 origin: "Other",
@@ -6266,7 +6266,7 @@
                 Jp: "2",
                 power: "40",
                 Map: "Vent",
-                effect: "<br>On your opponent's turn this card filps face down. While face down it has 0 JP and can't be killed by [Customizations]. ONCE PER TURN: Discard a card from your hand- if it was a [Chicken], [Illusion], or \"(Novels)\" card- deal 1.",
+                effect: "<br>On your opponent's turn this card flips face down. While face down it has 0 JP and can't be killed by [Customizations]. ONCE PER TURN: Discard a card from your hand- if it was a [Chicken], [Illusion], or \"(Novels)\" card- deal 1.",
             }, {
                 name: "Twisted Foxy (Novels)",
                 origin: "Twisted Ones",
@@ -6279,7 +6279,7 @@
                 Jp: "0",
                 power: "40",
                 Map: "Right_Office",
-                effect: "<br>On your opponent's turn this card filps face down. While face down it has 0 JP and is immune to counter based effects. ONCE PER TURN: Discard the top card of your deck- if it a [Fox], [Illusion], or \"(Novels)\" card- add a +1 JP counter to this card (Max 4).",
+                effect: "<br>On your opponent's turn this card flips face down. While face down it has 0 JP and is immune to counter based effects. ONCE PER TURN: Discard the top card of your deck- if it a [Fox], [Illusion], or \"(Novels)\" card- add a +1 JP counter to this card (Max 4).",
             }, {
                 name: "Twisted Wolf (Novels)",
                 origin: "Twisted Ones",
@@ -6292,7 +6292,7 @@
                 Jp: "2",
                 power: "40",
                 Map: "Left_Hall",
-                effect: "<br>On your opponent's turn this card filps face down. While face down it has 0 JP and can't be killed by character effects. ONCE PER TURN: Discard a card from your hand- if it was a [Wolf], [Illusion], or \"(Novels)\" card- reveal the top cards of your deck for every 10% of that card's cost and add a card with one of those traits to your hand- then ARCHIVE.",
+                effect: "<br>On your opponent's turn this card flips face down. While face down it has 0 JP and can't be killed by character effects. ONCE PER TURN: Discard a card from your hand- if it was a [Wolf], [Illusion], or \"(Novels)\" card- reveal the top cards of your deck for every 10% of that card's cost and add a card with one of those traits to your hand- then ARCHIVE.",
             }, {
                 name: "Springtrap (Novels)",
                 origin: "Twisted Ones",
@@ -6997,7 +6997,7 @@
                 Jp: "0",
                 power: "30",
                 Map: "Office",
-                effect: "<br><i><mark class = 'agony'>AGONY (A STACK's Master may use the effect below as if they were it own):</mark></i> ONCE PER TURN: When you filp a coin for an effect, you card rig the outcome for the first flip performed by taking 1 Damage.",
+                effect: "<br><i><mark class = 'agony'>AGONY (A STACK's Master may use the effect below as if they were it own):</mark></i> ONCE PER TURN: When you flip a coin for an effect, you card rig the outcome for the first flip performed by taking 1 Damage.",
             }, {
                 name: "Susie's Chica",
                 origin: "Fazbear Frights",
@@ -7179,7 +7179,7 @@
                 Jp: "3",
                 power: "60",
                 Map: "OfficeLR",
-                effect: " START OF YOUR TURN: Flip this card face down until the end of your turn. When This card filps sides, Draw 1 card then Discard 1 card from your hand. While this card is face down itt is rETIREd. AGONy: DEFENDER (This card can block any attack).<br>This card cannot be killed when Blocking.",
+                effect: " START OF YOUR TURN: Flip this card face down until the end of your turn. When This card flips sides, Draw 1 card then Discard 1 card from your hand. While this card is face down itt is rETIREd. AGONy: DEFENDER (This card can block any attack).<br>This card cannot be killed when Blocking.",
             }, {
                 name: "Dr Phineas Taggart",
                 origin: "Fazbear Frights",
@@ -7944,7 +7944,7 @@
                 Jp: "0",
                 power: "20",
                 Map: "Omni",
-                effect: "<br>You may deactivate this card to gain 10% if this card has a \"Virus\" counter on it. ONCE PER TURN: You may move this card to an adjacent space on the map &/or filp this card over. {B-7}",
+                effect: "<br>You may deactivate this card to gain 10% if this card has a \"Virus\" counter on it. ONCE PER TURN: You may move this card to an adjacent space on the map &/or flip this card over. {B-7}",
             }, {
                 name: "B-7",
                 origin: "Tales from the Pizzaplex",
@@ -7957,7 +7957,7 @@
                 Jp: "1",
                 power: "_Null",
                 Map: "Omni",
-                effect: "<br>You cannot play this side of this card. ONCE PER TURN: If this card is deactivated you may filp it over and reactivate it by placing a \"Virus\" counter on it {Billy (tales)}",
+                effect: "<br>You cannot play this side of this card. ONCE PER TURN: If this card is deactivated you may flip it over and reactivate it by placing a \"Virus\" counter on it {Billy (tales)}",
             }, {
                 name: "GGY \"Gregory (Tales)\"",
                 origin: "Security Breach/Tales from the Pizzaplex{Other}",
