@@ -3702,7 +3702,7 @@
                 Jp: "2",
                 power: "30",
                 Map: "Right_Hall",
-                effect: "Once per turn: Take 1 damage to add a \"virus\" counter to 2 different cards in play. Upon Virus heal 1",
+                effect: "Once per turn: Take 1 damage to add a \"virus\" counter to 2 different cards in play. upon Virus heal 1",
              }, {   
                 name: "The Curse \"Aztec Springtrap/Afton\(\?\)\"",
                 origin: "FNAF AR",
