@@ -3676,7 +3676,7 @@
                 Jp: "3",
                 power: "40",
                 Map: "Left_Hall",
-                effect: "<br>This card .<br>You may deactivate this card to play a card from your hand for its cost -10% for every \"Virus\" counter on this card (Max 40%). ONCE PER TURN: Add one \"Virus\" counter to this card.",
+                effect: "<br>This card is Retired while it has 3 or fewer \"Virus\" counter.<br>You may deactivate this card to play a card from your hand for its cost -10% for every \"Virus\" counter on this card (Max 40%). ONCE PER TURN: Add one \"Virus\" counter to this card.",
              }, {
                 name: "System Error Toy Bonnie",
                 origin: "FNAF AR",
@@ -3689,7 +3689,7 @@
                 Jp: "2",
                 power: "40",
                 Map: "Vent",
-                effect: "<br>This card cannot attack normally.<br>This card may only attack cards on your opponent's map with \"Virus\" counters.",
+                effect: "<br>This card cannot attack normally.<br>This card may only attack cards on your opponent's map with \"Virus\" counters. when this kills a card by fighting, add a virus counter to a card on the map",
             }, {
                 name: "Highscore Toy Chica",
                 origin: "FNAF AR",
@@ -3702,7 +3702,7 @@
                 Jp: "2",
                 power: "30",
                 Map: "Right_Hall",
-                effect: "",
+                effect: "Once per turn: Take 1 damage to add a \"virus\" counter to 2 different cards in play. Upon Virus heal 1",
              }, {   
                 name: "The Curse \"Aztec Springtrap/Afton\(\?\)\"",
                 origin: "FNAF AR",
