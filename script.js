@@ -195,7 +195,7 @@ function update() {
         }
     }
 
-    if (designinclusivity === "Exact") {
+    /*if (designinclusivity === "Exact") {
         if (type) {
             filteredCards = filteredCards.filter(c => c.design === design);
         }
@@ -207,9 +207,9 @@ function update() {
         if (type) {
             filteredCards = filteredCards.filter(c => c.design && !c.type.includes(design));
         }
-    }
+    }*/
     
-    /*if (design) {
+    if (design) {
         // tokens split on commas AND slashes (data uses "/")
         let designValues = design.split(/[,/]/).map(s => s.trim()).filter(Boolean);
         // "Gator" option covers both Gator and Alligator designs
@@ -221,7 +221,7 @@ function update() {
         } else if (designinclusivity === "Exclusive") {
             filteredCards = filteredCards.filter(c => c.design && !designValues.some(v => c.design.split("/").map(s => s.trim()).includes(v)));
         }
-    }*/
+    }
 
     if (map) {
         const aliases = aliasMap[map] || [];
