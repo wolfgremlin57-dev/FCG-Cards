@@ -6264,7 +6264,7 @@
                 type: "Illusion",
                 image: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f92d55ca-8441-433e-b818-eeb152a8b8ea/dlbxepd-5555c2d6-9c53-43ac-989f-c6baddbca3d3.png/v1/fit/w_828,h_1086/twisted_freddy_by_siresquawks_dlbxepd-414w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTE4MCIsInBhdGgiOiIvZi9mOTJkNTVjYS04NDQxLTQzM2UtYjgxOC1lZWIxNTJhOGI4ZWEvZGxieGVwZC01NTU1YzJkNi05YzUzLTQzYWMtOTg5Zi1jNmJhZGRiY2EzZDMucG5nIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.8mZHMm53Cpt7CX1zXlnWM02oUqjq1BtlwwCfIdt5Hbw",
                 Jp: "2",
-                power: "50",
+                power: "40",
                 Map: "Halls",
                 effect: "<br>On your opponent's turn this card flips face down. While face down it has 0 JP and can't be killed by character effects. ONCE PER TURN: Discard a [Bear], [Illusion], or \"(Novels)\" card from your hand- for every of one those traits it had- Gain 10%.",
             }, {
