@@ -3494,7 +3494,7 @@
                 Jp: "2",
                 power: "50",
                 Map: "Left_Hall",
-                effect: "<br>You may remove a counter you placed on this card to move laterally or remove 2 counters to place a \"Clockwork Minireena\" token. {Vent 1 JP Child/Humanoid | Animatronic}ONCE PER TURN: Place a counter on this card.",
+                effect: "<br>On your you may remove a counter from this card to move it to a space in your front row. then (If Possible) place a \"Clockwork Minireena\" Token where this card was previously. {Vent 1 JP Child/Humanoid | Animatronic, Alisa: \"The Funtime Entourage\"} ONCE PER TURN: Add a \"Hour\" counter on this card.",
             }, {
                 name: "Clockwork Minireena {token} \"The Funtime Entourage\"",
                 origin: "FNAF AR",
